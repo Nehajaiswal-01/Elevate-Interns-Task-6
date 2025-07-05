@@ -1,0 +1,1501 @@
+order_id,order_date,product_id,amount,customer_id,payment_method,category,city
+1001,2022-02-26,139,5005.36,10304,Cash on Delivery,Grocery,Kolkata
+1002,2022-01-23,129,6915.18,10108,Debit Card,Fashion,Delhi
+1003,2023-08-16,115,4404.79,10236,Credit Card,Grocery,Mumbai
+1004,2023-12-30,143,2539.38,10308,Cash on Delivery,Grocery,Bangalore
+1005,2022-01-11,108,8209.11,10352,Cash on Delivery,Electronics,Delhi
+1006,2023-09-26,121,8014.22,10070,Debit Card,Books,Mumbai
+1007,2023-11-15,139,6977.5,10183,Credit Card,Grocery,Bangalore
+1008,2023-01-14,119,2794.24,10250,UPI,Grocery,Hyderabad
+1009,2022-10-13,123,5943.28,10228,Debit Card,Books,Bangalore
+1010,2023-08-22,111,3673.64,10102,Credit Card,Electronics,Chennai
+1011,2023-09-07,111,1006.66,10075,Cash on Delivery,Books,Bangalore
+1012,2022-11-03,124,9181.4,10417,Credit Card,Electronics,Chennai
+1013,2023-12-23,136,1454.5,10446,Credit Card,Fashion,Mumbai
+1014,2023-04-06,140,9507.35,10216,Credit Card,Electronics,Bangalore
+1015,2023-04-17,124,4515.46,10407,UPI,Fashion,Mumbai
+1016,2023-11-12,103,1932.82,10399,Credit Card,Fashion,Mumbai
+1017,2023-12-30,122,5464.82,10411,UPI,Electronics,Delhi
+1018,2023-12-21,102,8742.16,10203,Cash on Delivery,Home & Kitchen,Mumbai
+1019,2022-10-22,124,7349.03,10192,UPI,Electronics,Mumbai
+1020,2022-02-14,144,8084.96,10249,Cash on Delivery,Grocery,Bangalore
+1021,2023-08-19,130,6621.96,10499,Cash on Delivery,Grocery,Bangalore
+1022,2022-11-08,138,6953.54,10242,UPI,Home & Kitchen,Hyderabad
+1023,2024-01-01,102,8507.04,10465,Debit Card,Fashion,Delhi
+1024,2022-04-14,121,2571.71,10179,Net Banking,Home & Kitchen,Mumbai
+1025,2023-08-18,133,4945.31,10437,Credit Card,Grocery,Delhi
+1026,2022-06-18,112,2289.97,10462,Net Banking,Home & Kitchen,Chennai
+1027,2022-07-04,122,9877.91,10219,Credit Card,Electronics,Mumbai
+1028,2023-10-29,144,9446.19,10082,Credit Card,Home & Kitchen,Delhi
+1029,2022-07-09,125,490.33,10092,Cash on Delivery,Fashion,Hyderabad
+1030,2023-02-03,149,7085.19,10435,Credit Card,Electronics,Hyderabad
+1031,2022-01-03,127,9259.96,10175,Credit Card,Books,Mumbai
+1032,2022-06-11,142,1887.7,10239,UPI,Grocery,Chennai
+1033,2022-01-10,128,5722.66,10260,Net Banking,Grocery,Hyderabad
+1034,2023-11-22,116,9163.33,10391,UPI,Home & Kitchen,Hyderabad
+1035,2023-06-01,115,436.07,10365,Credit Card,Electronics,Chennai
+1036,2023-05-27,147,7004.46,10163,Cash on Delivery,Books,Delhi
+1037,2022-10-16,144,3043.76,10048,UPI,Electronics,Hyderabad
+1038,2022-02-20,103,9251.52,10329,UPI,Grocery,Bangalore
+1039,2023-08-11,137,9713.48,10328,Debit Card,Electronics,Kolkata
+1040,2022-07-24,107,9448.24,10116,Credit Card,Books,Kolkata
+1041,2022-08-06,121,4794.72,10429,Cash on Delivery,Home & Kitchen,Hyderabad
+1042,2022-03-08,109,8634.22,10337,UPI,Fashion,Delhi
+1043,2023-06-24,139,8461.04,10337,UPI,Electronics,Delhi
+1044,2022-12-08,118,3259.09,10369,Cash on Delivery,Fashion,Mumbai
+1045,2022-09-23,104,8306.26,10225,Credit Card,Grocery,Bangalore
+1046,2023-02-01,125,466.38,10352,Debit Card,Home & Kitchen,Delhi
+1047,2022-07-25,114,6003.07,10328,UPI,Home & Kitchen,Chennai
+1048,2022-07-14,150,2377.09,10147,Debit Card,Electronics,Bangalore
+1049,2023-04-29,109,1293.61,10063,Net Banking,Home & Kitchen,Kolkata
+1050,2023-01-19,126,861.84,10294,Credit Card,Electronics,Bangalore
+1051,2023-10-07,102,6993.26,10323,Net Banking,Electronics,Chennai
+1052,2022-08-03,120,3464.76,10443,Net Banking,Fashion,Hyderabad
+1053,2022-07-04,128,7275.19,10325,Net Banking,Home & Kitchen,Chennai
+1054,2022-12-15,147,747.03,10013,Credit Card,Electronics,Chennai
+1055,2023-12-24,107,3221.37,10431,Credit Card,Fashion,Hyderabad
+1056,2022-04-17,144,5440.96,10494,Cash on Delivery,Books,Hyderabad
+1057,2022-05-13,108,7928.16,10189,Debit Card,Fashion,Hyderabad
+1058,2023-04-19,147,3255.65,10287,Debit Card,Fashion,Hyderabad
+1059,2023-12-21,135,6296.32,10208,Cash on Delivery,Electronics,Hyderabad
+1060,2022-11-01,114,8871.18,10114,Cash on Delivery,Grocery,Chennai
+1061,2023-10-30,117,6197.05,10480,Net Banking,Grocery,Mumbai
+1062,2022-07-18,136,2406.3,10022,Cash on Delivery,Grocery,Mumbai
+1063,2023-01-22,150,341.57,10349,UPI,Fashion,Delhi
+1064,2022-11-14,140,8713.98,10214,Debit Card,Electronics,Mumbai
+1065,2023-05-30,104,310.57,10171,Cash on Delivery,Home & Kitchen,Kolkata
+1066,2023-07-02,102,8759.55,10323,UPI,Fashion,Mumbai
+1067,2022-02-24,106,5336.48,10054,UPI,Fashion,Chennai
+1068,2022-01-12,142,9396.77,10394,UPI,Electronics,Hyderabad
+1069,2023-05-11,104,8007.95,10298,UPI,Books,Hyderabad
+1070,2023-07-08,129,9979.55,10320,Net Banking,Fashion,Chennai
+1071,2022-07-21,118,3572.05,10126,UPI,Books,Kolkata
+1072,2022-12-05,126,7695.16,10277,Net Banking,Books,Mumbai
+1073,2023-09-13,144,4079.12,10464,Net Banking,Grocery,Chennai
+1074,2023-07-06,134,4850.77,10204,UPI,Electronics,Delhi
+1075,2022-12-29,110,6312.3,10194,Debit Card,Books,Hyderabad
+1076,2023-05-07,136,8749.4,10169,UPI,Electronics,Bangalore
+1077,2023-09-08,114,9842.43,10152,UPI,Grocery,Delhi
+1078,2022-12-30,131,7705.91,10035,UPI,Electronics,Kolkata
+1079,2023-03-16,148,4235.89,10184,Debit Card,Fashion,Delhi
+1080,2023-08-02,115,4271.43,10286,Credit Card,Books,Chennai
+1081,2023-11-10,108,7402.06,10057,Credit Card,Electronics,Mumbai
+1082,2022-12-29,114,2463.89,10222,Net Banking,Home & Kitchen,Hyderabad
+1083,2023-12-21,123,1193.69,10303,Net Banking,Electronics,Kolkata
+1084,2022-09-14,140,3610.76,10163,Debit Card,Books,Kolkata
+1085,2022-12-28,121,2943.67,10019,Cash on Delivery,Grocery,Bangalore
+1086,2023-08-04,116,3033.45,10370,Credit Card,Grocery,Delhi
+1087,2023-05-03,145,2412.72,10264,Net Banking,Books,Bangalore
+1088,2023-08-20,118,516.72,10282,Credit Card,Fashion,Mumbai
+1089,2022-05-31,147,276.95,10113,Debit Card,Fashion,Mumbai
+1090,2022-03-16,124,9878.45,10488,Debit Card,Grocery,Bangalore
+1091,2022-06-30,126,4334.95,10327,Cash on Delivery,Grocery,Hyderabad
+1092,2023-02-04,125,3904.83,10030,Cash on Delivery,Books,Mumbai
+1093,2023-02-24,145,6828.51,10135,Debit Card,Fashion,Bangalore
+1094,2022-05-13,141,2260.71,10067,Net Banking,Grocery,Delhi
+1095,2023-09-30,129,9504.62,10065,Credit Card,Fashion,Bangalore
+1096,2022-05-17,115,7884.82,10292,UPI,Grocery,Bangalore
+1097,2022-11-21,145,985.17,10025,Cash on Delivery,Electronics,Chennai
+1098,2022-10-27,101,4234.05,10037,UPI,Home & Kitchen,Mumbai
+1099,2022-01-03,125,8803.27,10001,Net Banking,Electronics,Hyderabad
+1100,2023-08-22,107,9452.85,10399,Cash on Delivery,Grocery,Hyderabad
+1101,2023-01-14,109,4727.27,10037,UPI,Home & Kitchen,Chennai
+1102,2023-08-17,124,6172.77,10141,Net Banking,Home & Kitchen,Kolkata
+1103,2023-06-07,101,1753.64,10232,Credit Card,Grocery,Hyderabad
+1104,2023-09-02,144,9912.57,10136,Net Banking,Grocery,Bangalore
+1105,2022-10-03,108,2393.55,10389,Cash on Delivery,Fashion,Chennai
+1106,2022-10-26,124,9433.04,10188,Debit Card,Grocery,Delhi
+1107,2022-12-09,111,6531.5,10128,Credit Card,Books,Mumbai
+1108,2022-11-24,117,6116.59,10201,UPI,Grocery,Mumbai
+1109,2023-10-01,108,5175.62,10127,Cash on Delivery,Books,Mumbai
+1110,2022-03-08,135,2383.63,10257,Debit Card,Grocery,Bangalore
+1111,2023-07-05,135,1847.63,10164,Net Banking,Fashion,Delhi
+1112,2022-04-24,133,2282.81,10035,Debit Card,Books,Chennai
+1113,2022-12-30,105,1945.74,10194,Cash on Delivery,Electronics,Chennai
+1114,2023-04-20,142,7817.89,10191,Cash on Delivery,Books,Mumbai
+1115,2023-01-15,139,3566.24,10104,Debit Card,Fashion,Delhi
+1116,2022-04-19,141,672.64,10023,Net Banking,Books,Delhi
+1117,2023-12-20,128,9694.12,10265,Debit Card,Grocery,Delhi
+1118,2022-02-18,107,8849.48,10290,Cash on Delivery,Grocery,Hyderabad
+1119,2023-04-17,109,9284.75,10430,Cash on Delivery,Fashion,Hyderabad
+1120,2023-12-14,108,9949.59,10462,UPI,Home & Kitchen,Mumbai
+1121,2022-10-29,112,1821.56,10384,UPI,Grocery,Delhi
+1122,2023-09-08,134,4022.8,10260,Credit Card,Electronics,Kolkata
+1123,2022-01-18,133,7606.56,10414,Cash on Delivery,Fashion,Delhi
+1124,2022-04-14,148,6990.6,10479,UPI,Books,Chennai
+1125,2022-05-26,123,1623.57,10358,Debit Card,Books,Chennai
+1126,2022-05-05,124,8176.75,10075,Net Banking,Electronics,Mumbai
+1127,2023-01-04,137,2321.96,10355,Debit Card,Grocery,Kolkata
+1128,2023-10-14,135,2315.79,10072,Net Banking,Fashion,Delhi
+1129,2022-10-15,144,5416.05,10259,UPI,Electronics,Kolkata
+1130,2022-02-12,140,5970.11,10398,Credit Card,Grocery,Mumbai
+1131,2023-09-01,122,5842.85,10188,Debit Card,Fashion,Chennai
+1132,2022-07-10,127,1005.72,10461,Debit Card,Books,Chennai
+1133,2022-06-25,135,8786.86,10173,Debit Card,Fashion,Hyderabad
+1134,2022-09-14,101,2729.44,10480,Net Banking,Home & Kitchen,Mumbai
+1135,2023-03-15,135,1382.2,10290,UPI,Fashion,Mumbai
+1136,2023-08-29,137,8898.61,10045,Debit Card,Home & Kitchen,Delhi
+1137,2022-12-27,147,9560.95,10061,Debit Card,Fashion,Delhi
+1138,2023-02-21,114,8635.06,10083,Credit Card,Home & Kitchen,Hyderabad
+1139,2022-02-13,103,8114.21,10123,Credit Card,Books,Bangalore
+1140,2022-02-22,101,6586.9,10358,UPI,Grocery,Kolkata
+1141,2022-12-20,105,5553.49,10016,UPI,Home & Kitchen,Bangalore
+1142,2023-08-02,126,961.17,10066,Cash on Delivery,Home & Kitchen,Bangalore
+1143,2023-09-08,114,4143.69,10424,Credit Card,Books,Mumbai
+1144,2023-06-13,139,3789.62,10145,Cash on Delivery,Home & Kitchen,Kolkata
+1145,2023-09-07,127,2671.56,10375,Net Banking,Electronics,Mumbai
+1146,2022-10-26,109,7261.86,10162,Cash on Delivery,Books,Kolkata
+1147,2022-09-06,115,5009.17,10234,Debit Card,Electronics,Chennai
+1148,2022-07-16,115,902.36,10380,Cash on Delivery,Books,Mumbai
+1149,2023-03-06,126,2279.81,10144,UPI,Home & Kitchen,Mumbai
+1150,2022-12-06,142,6864.26,10358,Net Banking,Electronics,Mumbai
+1151,2023-05-30,113,853.7,10188,Debit Card,Home & Kitchen,Hyderabad
+1152,2023-11-10,132,8526.95,10322,Cash on Delivery,Books,Mumbai
+1153,2023-11-28,139,5001.95,10450,Net Banking,Home & Kitchen,Delhi
+1154,2023-03-31,149,4857.81,10474,Net Banking,Electronics,Delhi
+1155,2023-05-28,132,5964.84,10013,Debit Card,Electronics,Kolkata
+1156,2023-12-08,104,8264.34,10184,Cash on Delivery,Home & Kitchen,Chennai
+1157,2023-02-08,130,3543.31,10111,Net Banking,Fashion,Hyderabad
+1158,2023-02-15,137,6812.36,10415,Net Banking,Books,Kolkata
+1159,2023-08-21,123,5700.75,10290,Credit Card,Books,Delhi
+1160,2023-06-04,139,2743.58,10295,Net Banking,Home & Kitchen,Hyderabad
+1161,2022-05-27,145,8798.44,10451,Credit Card,Fashion,Hyderabad
+1162,2023-06-06,115,7994.52,10392,Cash on Delivery,Electronics,Chennai
+1163,2023-10-10,143,6618.67,10215,Cash on Delivery,Grocery,Hyderabad
+1164,2023-02-04,129,8520.76,10462,Cash on Delivery,Grocery,Mumbai
+1165,2022-09-02,136,8686.21,10120,UPI,Home & Kitchen,Hyderabad
+1166,2022-11-07,113,7112.79,10382,Cash on Delivery,Fashion,Chennai
+1167,2022-05-30,132,8386.43,10055,Net Banking,Fashion,Kolkata
+1168,2022-02-05,107,7004.97,10027,Debit Card,Books,Chennai
+1169,2022-10-29,122,6833.39,10118,Credit Card,Electronics,Chennai
+1170,2023-01-19,128,6224.25,10221,UPI,Fashion,Delhi
+1171,2023-10-14,102,7551.89,10231,Cash on Delivery,Grocery,Mumbai
+1172,2022-09-24,142,1670.19,10053,Cash on Delivery,Electronics,Delhi
+1173,2022-07-15,145,8820.62,10295,Debit Card,Electronics,Kolkata
+1174,2022-07-19,106,8731.25,10321,Debit Card,Home & Kitchen,Bangalore
+1175,2022-01-25,128,389.55,10401,UPI,Fashion,Kolkata
+1176,2022-11-07,128,8275.59,10233,Credit Card,Home & Kitchen,Mumbai
+1177,2022-11-23,144,1375.81,10158,Cash on Delivery,Fashion,Hyderabad
+1178,2023-04-24,144,3417.68,10437,UPI,Books,Chennai
+1179,2022-10-02,120,7460.73,10269,Net Banking,Home & Kitchen,Bangalore
+1180,2023-01-16,130,1691.52,10021,Net Banking,Home & Kitchen,Mumbai
+1181,2022-09-19,111,8197.87,10403,UPI,Grocery,Delhi
+1182,2023-12-24,128,8338.13,10053,Cash on Delivery,Home & Kitchen,Chennai
+1183,2022-04-01,125,5123.93,10275,UPI,Fashion,Kolkata
+1184,2022-02-20,139,163.22,10313,Cash on Delivery,Grocery,Delhi
+1185,2022-04-13,133,2941.68,10281,Debit Card,Home & Kitchen,Mumbai
+1186,2023-05-07,101,6207.58,10214,UPI,Home & Kitchen,Mumbai
+1187,2023-03-04,127,9813.74,10031,Cash on Delivery,Books,Kolkata
+1188,2023-11-10,113,6354.95,10337,UPI,Home & Kitchen,Bangalore
+1189,2023-06-03,141,2672.06,10183,UPI,Electronics,Kolkata
+1190,2022-10-25,103,6376.66,10023,Cash on Delivery,Grocery,Hyderabad
+1191,2022-05-03,139,5445.86,10032,Cash on Delivery,Electronics,Delhi
+1192,2023-01-19,106,7820.47,10446,Credit Card,Grocery,Bangalore
+1193,2023-03-24,108,1159.11,10074,UPI,Books,Chennai
+1194,2022-03-30,127,7634.18,10010,Net Banking,Home & Kitchen,Hyderabad
+1195,2023-08-12,109,5458.54,10484,UPI,Home & Kitchen,Bangalore
+1196,2023-09-08,137,9633.62,10456,UPI,Home & Kitchen,Delhi
+1197,2023-04-21,133,3484.53,10054,Cash on Delivery,Grocery,Mumbai
+1198,2023-02-09,142,6362.96,10052,UPI,Home & Kitchen,Chennai
+1199,2022-01-26,144,9327.08,10148,UPI,Electronics,Kolkata
+1200,2022-09-18,124,1114.85,10160,Net Banking,Home & Kitchen,Delhi
+1201,2022-07-29,115,9378.56,10370,Cash on Delivery,Books,Hyderabad
+1202,2023-05-09,132,6910.07,10014,UPI,Electronics,Hyderabad
+1203,2022-05-15,132,771.59,10178,Debit Card,Home & Kitchen,Mumbai
+1204,2023-08-07,124,3079.54,10412,Credit Card,Home & Kitchen,Mumbai
+1205,2023-01-11,141,7110.9,10366,Net Banking,Fashion,Chennai
+1206,2023-12-01,149,766.77,10500,UPI,Grocery,Kolkata
+1207,2023-08-01,149,5863.49,10053,Debit Card,Electronics,Chennai
+1208,2022-04-20,112,3524.24,10408,UPI,Fashion,Mumbai
+1209,2023-02-12,139,6247.06,10335,UPI,Books,Mumbai
+1210,2022-12-05,102,552.85,10022,Cash on Delivery,Grocery,Hyderabad
+1211,2023-04-28,103,8728.21,10030,Cash on Delivery,Electronics,Mumbai
+1212,2022-12-17,149,9737.54,10191,Cash on Delivery,Home & Kitchen,Bangalore
+1213,2022-10-03,137,9691.89,10260,Debit Card,Electronics,Delhi
+1214,2022-12-18,149,7521.55,10205,UPI,Home & Kitchen,Mumbai
+1215,2022-09-25,117,1387.85,10059,Credit Card,Grocery,Chennai
+1216,2022-12-16,149,7606.81,10471,Net Banking,Home & Kitchen,Kolkata
+1217,2023-08-07,102,343.41,10264,Cash on Delivery,Books,Kolkata
+1218,2023-02-05,102,319.02,10466,Cash on Delivery,Home & Kitchen,Kolkata
+1219,2023-12-30,128,3303.74,10012,UPI,Books,Bangalore
+1220,2022-05-02,123,4937.57,10119,UPI,Grocery,Chennai
+1221,2022-11-04,137,7727.03,10415,Debit Card,Grocery,Bangalore
+1222,2023-08-12,132,6864.62,10462,Debit Card,Electronics,Mumbai
+1223,2022-09-26,133,4514.44,10290,Cash on Delivery,Books,Delhi
+1224,2023-07-09,101,2808.9,10338,UPI,Books,Kolkata
+1225,2023-08-22,119,9971.53,10248,Credit Card,Fashion,Chennai
+1226,2023-09-06,102,4319.19,10354,Net Banking,Fashion,Kolkata
+1227,2022-10-04,144,4568.73,10127,UPI,Fashion,Bangalore
+1228,2022-11-05,126,1719.88,10075,UPI,Home & Kitchen,Hyderabad
+1229,2023-11-09,132,7968.61,10361,Debit Card,Fashion,Mumbai
+1230,2022-04-09,106,6967.45,10204,Net Banking,Books,Delhi
+1231,2023-04-24,132,2285.62,10049,Cash on Delivery,Home & Kitchen,Mumbai
+1232,2023-11-19,104,915.57,10079,UPI,Grocery,Hyderabad
+1233,2023-11-16,111,6836.94,10441,Cash on Delivery,Electronics,Delhi
+1234,2023-11-13,117,6579.66,10479,UPI,Fashion,Hyderabad
+1235,2022-07-13,138,2805.27,10241,Cash on Delivery,Grocery,Mumbai
+1236,2022-06-10,124,9513.55,10349,Net Banking,Books,Bangalore
+1237,2023-05-12,105,1595.47,10154,Debit Card,Electronics,Mumbai
+1238,2023-12-31,134,4380.11,10274,Net Banking,Grocery,Mumbai
+1239,2023-12-03,106,9441.8,10096,Credit Card,Electronics,Mumbai
+1240,2022-09-29,122,4255.3,10214,Debit Card,Fashion,Chennai
+1241,2023-10-20,111,6421.41,10294,Net Banking,Books,Hyderabad
+1242,2022-06-27,148,4036.18,10209,Credit Card,Electronics,Hyderabad
+1243,2022-01-20,116,2814.73,10343,UPI,Grocery,Kolkata
+1244,2023-05-21,133,9841.38,10088,UPI,Fashion,Hyderabad
+1245,2023-04-10,109,4152.41,10306,Cash on Delivery,Fashion,Kolkata
+1246,2022-05-09,106,8951.58,10264,Debit Card,Grocery,Chennai
+1247,2022-12-13,116,2376.55,10425,UPI,Grocery,Bangalore
+1248,2023-07-09,129,2209.74,10390,Debit Card,Electronics,Kolkata
+1249,2022-03-17,103,408.23,10325,UPI,Home & Kitchen,Mumbai
+1250,2022-06-05,120,6551.5,10428,Cash on Delivery,Fashion,Bangalore
+1251,2023-07-21,136,3748.41,10377,Net Banking,Electronics,Chennai
+1252,2022-08-10,119,8657.15,10320,Cash on Delivery,Grocery,Hyderabad
+1253,2022-08-15,126,4784.78,10157,Credit Card,Electronics,Kolkata
+1254,2023-01-09,103,9685.11,10156,UPI,Grocery,Mumbai
+1255,2023-03-24,119,1936.7,10139,Credit Card,Books,Delhi
+1256,2023-02-01,120,8699.37,10121,Credit Card,Grocery,Delhi
+1257,2023-07-24,132,7788.31,10065,Debit Card,Grocery,Bangalore
+1258,2023-01-01,107,7732.13,10107,UPI,Grocery,Hyderabad
+1259,2022-02-01,141,8463.35,10147,Credit Card,Home & Kitchen,Delhi
+1260,2022-02-11,133,7634.14,10137,Net Banking,Grocery,Bangalore
+1261,2023-06-28,140,6299.58,10411,Credit Card,Fashion,Chennai
+1262,2022-02-26,139,1399.32,10162,Net Banking,Fashion,Bangalore
+1263,2023-08-19,118,422.01,10428,Debit Card,Electronics,Bangalore
+1264,2022-05-31,140,9216.39,10452,Credit Card,Home & Kitchen,Bangalore
+1265,2022-03-02,101,6204.84,10100,Cash on Delivery,Electronics,Mumbai
+1266,2023-11-28,111,7985.72,10338,Debit Card,Fashion,Bangalore
+1267,2023-05-05,128,4867.07,10399,Net Banking,Fashion,Kolkata
+1268,2022-10-04,125,1261.35,10307,Debit Card,Books,Bangalore
+1269,2023-02-19,150,1339.34,10141,Credit Card,Grocery,Mumbai
+1270,2023-12-01,123,6887.1,10083,UPI,Fashion,Mumbai
+1271,2023-02-15,131,4360.03,10177,UPI,Electronics,Chennai
+1272,2023-08-03,130,2085.19,10198,Net Banking,Electronics,Hyderabad
+1273,2022-07-18,142,4966.79,10112,Net Banking,Grocery,Delhi
+1274,2023-10-22,135,735.67,10056,UPI,Grocery,Delhi
+1275,2023-04-28,107,5861.52,10460,Net Banking,Books,Bangalore
+1276,2022-12-27,116,2763.03,10179,Debit Card,Home & Kitchen,Chennai
+1277,2023-06-16,126,7995.84,10421,Cash on Delivery,Electronics,Bangalore
+1278,2023-09-12,148,3172.58,10401,Cash on Delivery,Grocery,Delhi
+1279,2022-10-30,149,4606.68,10186,Debit Card,Electronics,Mumbai
+1280,2023-10-20,102,215.04,10471,Cash on Delivery,Grocery,Hyderabad
+1281,2022-03-09,101,817.22,10218,Credit Card,Fashion,Chennai
+1282,2022-01-02,148,3985.69,10413,Debit Card,Electronics,Mumbai
+1283,2023-04-25,112,4851.39,10417,Net Banking,Fashion,Hyderabad
+1284,2023-05-06,105,6040.2,10316,Debit Card,Electronics,Chennai
+1285,2022-12-15,137,2987.46,10475,UPI,Home & Kitchen,Chennai
+1286,2022-09-22,132,6980.32,10217,Net Banking,Books,Delhi
+1287,2023-01-31,109,8615.21,10120,UPI,Fashion,Mumbai
+1288,2022-01-06,141,7820.52,10439,Net Banking,Grocery,Chennai
+1289,2022-02-19,135,492.23,10394,Cash on Delivery,Home & Kitchen,Kolkata
+1290,2022-06-07,119,4857.02,10175,Debit Card,Electronics,Chennai
+1291,2022-08-10,148,1138.81,10023,Credit Card,Fashion,Hyderabad
+1292,2022-11-06,116,2496.25,10213,Net Banking,Electronics,Delhi
+1293,2022-07-10,103,9867.96,10405,Net Banking,Electronics,Bangalore
+1294,2022-06-30,120,1510.71,10235,UPI,Electronics,Delhi
+1295,2022-01-20,124,5038.99,10013,Cash on Delivery,Books,Bangalore
+1296,2023-04-30,133,6219.74,10101,UPI,Books,Mumbai
+1297,2023-12-21,124,7054.4,10417,UPI,Grocery,Mumbai
+1298,2023-08-31,111,5640.52,10024,Cash on Delivery,Fashion,Chennai
+1299,2023-03-07,149,196.73,10364,Credit Card,Home & Kitchen,Kolkata
+1300,2023-08-26,108,3331.97,10011,UPI,Home & Kitchen,Mumbai
+1301,2022-04-12,136,5225.35,10273,UPI,Home & Kitchen,Chennai
+1302,2022-06-02,138,969.88,10452,Net Banking,Electronics,Delhi
+1303,2022-09-14,140,3571.21,10431,Cash on Delivery,Books,Mumbai
+1304,2023-04-19,120,428.71,10281,Debit Card,Fashion,Delhi
+1305,2023-03-13,135,877.93,10094,Credit Card,Electronics,Delhi
+1306,2022-11-30,148,4029.54,10201,Credit Card,Books,Kolkata
+1307,2022-12-27,125,1413.89,10021,Cash on Delivery,Books,Mumbai
+1308,2022-12-15,135,5718.65,10340,Net Banking,Fashion,Delhi
+1309,2023-02-22,125,6925.7,10467,Net Banking,Fashion,Kolkata
+1310,2022-01-24,129,8025.81,10211,Cash on Delivery,Fashion,Kolkata
+1311,2022-07-09,118,2081.49,10140,Net Banking,Electronics,Mumbai
+1312,2022-02-07,146,1758.08,10293,Credit Card,Grocery,Kolkata
+1313,2022-04-25,118,1135.22,10298,Credit Card,Fashion,Mumbai
+1314,2023-08-09,102,6400.66,10401,Debit Card,Grocery,Mumbai
+1315,2023-02-26,135,7094.11,10101,Cash on Delivery,Electronics,Bangalore
+1316,2023-06-02,116,412.7,10304,UPI,Grocery,Delhi
+1317,2022-05-30,141,9368.5,10359,UPI,Home & Kitchen,Hyderabad
+1318,2023-09-29,136,614.52,10028,Debit Card,Grocery,Mumbai
+1319,2022-06-03,133,5458.83,10041,Debit Card,Fashion,Delhi
+1320,2022-07-05,104,7119.7,10355,Net Banking,Electronics,Kolkata
+1321,2022-09-08,133,8722.59,10303,Debit Card,Fashion,Chennai
+1322,2023-04-28,114,7169.46,10496,Debit Card,Home & Kitchen,Mumbai
+1323,2022-04-19,121,8037.11,10146,UPI,Fashion,Kolkata
+1324,2022-07-27,148,3460.56,10256,Net Banking,Fashion,Kolkata
+1325,2022-02-26,120,8166.77,10462,Debit Card,Fashion,Kolkata
+1326,2023-12-07,108,893.14,10227,Debit Card,Books,Kolkata
+1327,2022-10-12,107,8958.68,10236,Net Banking,Home & Kitchen,Kolkata
+1328,2023-07-23,103,5521.16,10361,Cash on Delivery,Fashion,Mumbai
+1329,2022-08-15,117,8191.25,10380,Net Banking,Fashion,Hyderabad
+1330,2022-12-18,133,4577.95,10455,UPI,Fashion,Bangalore
+1331,2023-02-26,148,6471.42,10489,Cash on Delivery,Electronics,Kolkata
+1332,2023-10-06,112,5311.39,10013,Credit Card,Books,Kolkata
+1333,2023-06-04,122,7342.74,10210,Net Banking,Electronics,Bangalore
+1334,2022-04-24,122,908.14,10229,UPI,Books,Mumbai
+1335,2023-02-26,146,697.49,10397,Cash on Delivery,Fashion,Delhi
+1336,2023-10-14,130,2546.32,10100,Net Banking,Home & Kitchen,Chennai
+1337,2022-05-28,138,1679.49,10031,Debit Card,Grocery,Chennai
+1338,2023-12-23,138,8730.66,10386,Net Banking,Grocery,Delhi
+1339,2023-10-21,145,2270.22,10016,Credit Card,Fashion,Mumbai
+1340,2023-06-08,108,9761.07,10137,Net Banking,Electronics,Chennai
+1341,2022-12-25,127,3435.27,10329,Cash on Delivery,Home & Kitchen,Bangalore
+1342,2023-07-30,127,1902.97,10166,Cash on Delivery,Books,Delhi
+1343,2023-12-05,134,7918.02,10459,Net Banking,Fashion,Hyderabad
+1344,2022-05-15,121,6621.21,10310,Cash on Delivery,Home & Kitchen,Mumbai
+1345,2023-07-01,130,5032.14,10440,Debit Card,Home & Kitchen,Delhi
+1346,2022-03-08,133,5598.1,10470,Net Banking,Books,Chennai
+1347,2023-10-02,128,7220.1,10481,Debit Card,Home & Kitchen,Mumbai
+1348,2023-01-31,147,2361.7,10100,Debit Card,Electronics,Bangalore
+1349,2023-07-07,133,9963.71,10109,UPI,Electronics,Mumbai
+1350,2023-02-22,105,9750.45,10343,Net Banking,Electronics,Mumbai
+1351,2022-02-07,148,6538.22,10173,Cash on Delivery,Home & Kitchen,Bangalore
+1352,2023-12-15,119,2075.47,10237,Debit Card,Electronics,Kolkata
+1353,2022-01-01,104,6834.26,10162,UPI,Books,Bangalore
+1354,2022-05-31,135,814.76,10393,Net Banking,Home & Kitchen,Mumbai
+1355,2023-08-01,149,403.46,10216,Net Banking,Grocery,Bangalore
+1356,2022-08-07,117,2651.06,10264,Credit Card,Home & Kitchen,Kolkata
+1357,2022-08-04,144,4679.97,10263,Credit Card,Books,Delhi
+1358,2023-05-03,128,8695.9,10292,Debit Card,Grocery,Bangalore
+1359,2023-08-21,130,7298.97,10274,Credit Card,Home & Kitchen,Bangalore
+1360,2022-11-05,129,7452.79,10003,Debit Card,Electronics,Mumbai
+1361,2022-11-24,146,4312.38,10028,Cash on Delivery,Fashion,Delhi
+1362,2022-10-10,106,3524.76,10326,Debit Card,Fashion,Hyderabad
+1363,2023-08-25,135,3773.28,10492,Credit Card,Electronics,Hyderabad
+1364,2023-03-10,141,9877.73,10428,Cash on Delivery,Fashion,Chennai
+1365,2022-06-16,137,497.08,10149,Credit Card,Fashion,Bangalore
+1366,2022-11-13,124,8683.61,10028,Debit Card,Electronics,Bangalore
+1367,2023-01-02,129,5828.89,10488,UPI,Electronics,Delhi
+1368,2022-02-18,149,4442.29,10310,Net Banking,Home & Kitchen,Kolkata
+1369,2023-05-19,146,7280.05,10438,Credit Card,Home & Kitchen,Hyderabad
+1370,2023-12-16,131,4918.02,10065,Debit Card,Electronics,Chennai
+1371,2022-06-21,135,8746.89,10356,Cash on Delivery,Books,Delhi
+1372,2022-06-26,133,9016.95,10021,Credit Card,Fashion,Bangalore
+1373,2022-02-12,121,4275.04,10252,Credit Card,Home & Kitchen,Hyderabad
+1374,2022-05-22,132,2840.6,10235,Net Banking,Fashion,Chennai
+1375,2022-06-12,123,5964.27,10227,Debit Card,Grocery,Mumbai
+1376,2023-03-22,133,9132.4,10013,UPI,Electronics,Hyderabad
+1377,2023-02-19,103,2185.56,10313,Cash on Delivery,Books,Chennai
+1378,2022-10-10,118,6267.37,10049,Debit Card,Grocery,Delhi
+1379,2022-08-27,125,6352.45,10118,Cash on Delivery,Grocery,Mumbai
+1380,2023-01-22,142,7357.82,10054,Credit Card,Grocery,Chennai
+1381,2023-06-10,131,1402.52,10138,Net Banking,Electronics,Chennai
+1382,2023-07-23,103,7186.67,10053,Net Banking,Home & Kitchen,Bangalore
+1383,2023-04-19,140,9099.42,10044,UPI,Electronics,Kolkata
+1384,2023-05-12,146,1878.86,10303,Net Banking,Home & Kitchen,Hyderabad
+1385,2023-12-01,124,2451.68,10053,Credit Card,Grocery,Bangalore
+1386,2022-12-22,150,9716.81,10074,UPI,Grocery,Mumbai
+1387,2023-12-23,132,1891.67,10046,Debit Card,Books,Kolkata
+1388,2022-06-14,147,8558.41,10013,Net Banking,Home & Kitchen,Chennai
+1389,2023-12-03,122,4973.55,10165,UPI,Grocery,Bangalore
+1390,2023-05-19,123,2547.59,10102,Credit Card,Fashion,Kolkata
+1391,2023-10-22,102,8720.42,10280,Cash on Delivery,Books,Hyderabad
+1392,2023-06-12,127,4508.52,10258,Cash on Delivery,Electronics,Mumbai
+1393,2023-03-05,142,5196.69,10470,Credit Card,Books,Delhi
+1394,2022-01-28,102,3656.41,10337,Credit Card,Fashion,Bangalore
+1395,2022-12-27,126,5970.21,10356,Cash on Delivery,Home & Kitchen,Mumbai
+1396,2022-07-14,117,1718.89,10398,UPI,Electronics,Delhi
+1397,2023-04-23,140,3971.71,10138,Cash on Delivery,Electronics,Bangalore
+1398,2022-08-13,133,9697.18,10163,Credit Card,Home & Kitchen,Mumbai
+1399,2023-07-18,109,2655.52,10409,Net Banking,Books,Mumbai
+1400,2022-03-02,143,6601.69,10387,Debit Card,Grocery,Kolkata
+1401,2022-06-20,148,3319.38,10111,Net Banking,Books,Bangalore
+1402,2023-06-05,139,7757.38,10102,Net Banking,Fashion,Mumbai
+1403,2022-05-04,129,1395.65,10017,Credit Card,Grocery,Chennai
+1404,2022-05-12,142,9701.23,10268,Cash on Delivery,Books,Bangalore
+1405,2022-04-01,126,4592.52,10182,UPI,Home & Kitchen,Mumbai
+1406,2022-05-07,135,2436.9,10372,Net Banking,Fashion,Kolkata
+1407,2023-08-12,150,827.62,10024,Cash on Delivery,Fashion,Delhi
+1408,2023-08-31,125,1780.6,10029,UPI,Fashion,Delhi
+1409,2023-11-05,124,5245.76,10171,Net Banking,Grocery,Chennai
+1410,2023-01-13,113,3436.33,10409,UPI,Electronics,Bangalore
+1411,2023-08-09,107,8305.95,10228,Cash on Delivery,Grocery,Kolkata
+1412,2023-06-02,136,4365.79,10378,Debit Card,Books,Mumbai
+1413,2022-07-28,145,2562.27,10188,Cash on Delivery,Electronics,Mumbai
+1414,2023-06-03,120,6209.74,10346,Credit Card,Books,Delhi
+1415,2022-12-10,101,7097.09,10230,UPI,Electronics,Kolkata
+1416,2022-01-06,108,1753.71,10321,Debit Card,Grocery,Chennai
+1417,2022-05-14,146,1759.43,10340,UPI,Fashion,Delhi
+1418,2022-02-02,116,463.05,10119,UPI,Home & Kitchen,Delhi
+1419,2022-11-24,114,7390.38,10156,Net Banking,Fashion,Chennai
+1420,2022-08-22,112,6671.66,10272,Credit Card,Grocery,Bangalore
+1421,2022-05-09,123,4798.85,10175,UPI,Electronics,Mumbai
+1422,2023-11-22,115,8457.29,10465,Cash on Delivery,Fashion,Bangalore
+1423,2023-07-11,128,8076.13,10104,Cash on Delivery,Grocery,Kolkata
+1424,2022-05-28,134,5895.01,10092,Net Banking,Books,Hyderabad
+1425,2022-10-12,102,8695.89,10186,Credit Card,Home & Kitchen,Hyderabad
+1426,2022-04-16,132,2137.83,10460,Credit Card,Fashion,Hyderabad
+1427,2023-03-26,123,1208.0,10283,Cash on Delivery,Electronics,Chennai
+1428,2023-04-19,122,2770.52,10181,Debit Card,Books,Delhi
+1429,2022-03-19,125,665.16,10170,Net Banking,Grocery,Bangalore
+1430,2023-01-24,122,5358.58,10187,Net Banking,Home & Kitchen,Mumbai
+1431,2022-12-15,122,9372.4,10175,Cash on Delivery,Electronics,Hyderabad
+1432,2023-10-10,149,489.5,10222,Cash on Delivery,Grocery,Bangalore
+1433,2022-05-31,142,1308.89,10233,Debit Card,Grocery,Hyderabad
+1434,2023-09-01,106,4576.77,10162,Debit Card,Fashion,Hyderabad
+1435,2022-10-11,115,9345.36,10421,Credit Card,Fashion,Mumbai
+1436,2022-11-30,143,3229.95,10134,Net Banking,Electronics,Kolkata
+1437,2023-07-05,137,5121.62,10391,Net Banking,Grocery,Kolkata
+1438,2023-02-07,133,511.57,10480,Cash on Delivery,Fashion,Kolkata
+1439,2022-09-19,108,1568.6,10224,Credit Card,Home & Kitchen,Chennai
+1440,2022-08-20,144,9867.64,10153,Net Banking,Home & Kitchen,Delhi
+1441,2023-02-13,144,9654.68,10033,Credit Card,Grocery,Chennai
+1442,2023-10-14,105,148.91,10055,Credit Card,Fashion,Bangalore
+1443,2022-11-16,139,9522.94,10442,Cash on Delivery,Electronics,Chennai
+1444,2022-09-30,104,6427.29,10007,Credit Card,Electronics,Bangalore
+1445,2023-03-01,106,8692.39,10244,Debit Card,Electronics,Bangalore
+1446,2022-04-17,145,4601.92,10313,Debit Card,Home & Kitchen,Delhi
+1447,2022-02-23,132,5204.4,10126,UPI,Fashion,Mumbai
+1448,2022-09-28,130,4939.58,10012,Cash on Delivery,Fashion,Delhi
+1449,2023-04-17,147,6701.96,10016,UPI,Home & Kitchen,Kolkata
+1450,2022-11-04,135,1482.55,10208,Debit Card,Electronics,Kolkata
+1451,2022-08-05,140,396.74,10043,UPI,Electronics,Chennai
+1452,2023-05-11,116,3148.51,10373,Cash on Delivery,Grocery,Bangalore
+1453,2022-08-26,113,7076.34,10484,Cash on Delivery,Books,Hyderabad
+1454,2022-08-25,150,2098.35,10461,Credit Card,Fashion,Hyderabad
+1455,2023-04-06,142,6766.98,10135,Net Banking,Fashion,Bangalore
+1456,2023-11-14,130,9702.13,10228,Credit Card,Fashion,Delhi
+1457,2022-12-30,119,1029.62,10111,Cash on Delivery,Books,Mumbai
+1458,2022-01-12,117,6758.76,10307,Debit Card,Grocery,Delhi
+1459,2023-10-29,119,4493.13,10457,Debit Card,Books,Bangalore
+1460,2022-05-08,128,8694.61,10160,Credit Card,Electronics,Bangalore
+1461,2022-03-24,126,1853.78,10331,Cash on Delivery,Electronics,Mumbai
+1462,2022-02-11,137,6957.0,10264,Debit Card,Fashion,Chennai
+1463,2023-02-25,126,8397.34,10225,Cash on Delivery,Home & Kitchen,Chennai
+1464,2023-02-13,123,9451.68,10471,Debit Card,Fashion,Mumbai
+1465,2023-06-06,109,6864.16,10217,Cash on Delivery,Home & Kitchen,Chennai
+1466,2022-02-11,112,5022.03,10456,UPI,Books,Hyderabad
+1467,2023-01-22,101,6216.69,10045,Cash on Delivery,Electronics,Chennai
+1468,2022-09-28,101,8702.16,10214,Cash on Delivery,Home & Kitchen,Chennai
+1469,2023-12-02,147,5749.04,10059,Credit Card,Books,Chennai
+1470,2022-09-22,134,400.83,10132,UPI,Electronics,Hyderabad
+1471,2022-02-28,132,9316.39,10104,Net Banking,Home & Kitchen,Chennai
+1472,2022-01-27,148,6926.31,10195,Credit Card,Fashion,Kolkata
+1473,2022-09-29,125,6797.48,10413,Net Banking,Fashion,Hyderabad
+1474,2023-10-12,140,2235.18,10489,Debit Card,Fashion,Mumbai
+1475,2022-02-17,145,6622.97,10157,Net Banking,Books,Delhi
+1476,2023-07-28,101,3999.26,10098,Cash on Delivery,Fashion,Mumbai
+1477,2023-03-11,116,6547.21,10226,Net Banking,Grocery,Delhi
+1478,2023-08-12,139,1155.27,10412,Credit Card,Electronics,Mumbai
+1479,2022-12-27,105,6612.67,10205,Credit Card,Books,Kolkata
+1480,2022-05-14,122,9994.2,10079,Net Banking,Fashion,Delhi
+1481,2023-09-20,129,577.3,10124,Credit Card,Electronics,Delhi
+1482,2023-07-17,103,9774.02,10471,Credit Card,Home & Kitchen,Bangalore
+1483,2023-03-09,112,4128.39,10428,Net Banking,Fashion,Delhi
+1484,2023-01-14,126,8720.46,10218,UPI,Electronics,Delhi
+1485,2023-12-17,116,7845.62,10004,UPI,Grocery,Bangalore
+1486,2022-04-29,137,5713.46,10090,Debit Card,Home & Kitchen,Chennai
+1487,2022-08-18,122,7410.65,10104,Credit Card,Grocery,Chennai
+1488,2022-06-10,129,8797.3,10393,Net Banking,Electronics,Bangalore
+1489,2022-03-10,114,4100.99,10119,Credit Card,Grocery,Hyderabad
+1490,2023-04-14,128,3337.63,10133,Cash on Delivery,Electronics,Delhi
+1491,2023-12-24,105,6709.17,10312,Credit Card,Electronics,Delhi
+1492,2022-01-17,147,8097.67,10096,Credit Card,Grocery,Bangalore
+1493,2023-01-14,149,7646.62,10468,UPI,Electronics,Bangalore
+1494,2022-04-09,130,7998.36,10434,Net Banking,Fashion,Hyderabad
+1495,2022-04-28,146,4412.27,10331,Credit Card,Electronics,Kolkata
+1496,2023-12-16,105,8196.56,10143,UPI,Books,Chennai
+1497,2022-06-05,112,1290.07,10288,Debit Card,Electronics,Mumbai
+1498,2023-04-30,116,5490.44,10028,UPI,Books,Kolkata
+1499,2023-09-27,126,157.01,10278,UPI,Electronics,Chennai
+1500,2022-04-11,126,3313.4,10233,UPI,Electronics,Delhi
+1501,2022-06-21,148,3727.97,10017,Credit Card,Grocery,Kolkata
+1502,2022-01-05,121,4022.11,10059,Credit Card,Fashion,Bangalore
+1503,2023-07-15,139,6985.13,10090,Debit Card,Fashion,Hyderabad
+1504,2022-09-12,136,3946.73,10492,Cash on Delivery,Home & Kitchen,Chennai
+1505,2022-06-11,133,4542.07,10199,Cash on Delivery,Grocery,Hyderabad
+1506,2023-10-02,130,2451.69,10362,Cash on Delivery,Grocery,Chennai
+1507,2022-10-10,137,3795.19,10441,Debit Card,Fashion,Kolkata
+1508,2023-01-20,123,2349.97,10026,Cash on Delivery,Grocery,Delhi
+1509,2023-06-26,110,824.64,10025,Cash on Delivery,Fashion,Mumbai
+1510,2022-02-19,105,6074.14,10394,UPI,Grocery,Hyderabad
+1511,2022-10-13,136,6715.31,10301,Credit Card,Electronics,Hyderabad
+1512,2022-10-10,134,6232.95,10339,Credit Card,Fashion,Mumbai
+1513,2022-10-21,131,4688.59,10267,UPI,Fashion,Hyderabad
+1514,2022-02-08,110,3859.88,10461,UPI,Books,Hyderabad
+1515,2022-01-12,119,8647.0,10181,UPI,Grocery,Chennai
+1516,2023-01-02,132,5238.91,10456,Credit Card,Grocery,Chennai
+1517,2023-04-14,101,4843.9,10360,Cash on Delivery,Fashion,Mumbai
+1518,2023-05-05,105,353.86,10068,UPI,Electronics,Delhi
+1519,2023-12-18,145,3478.35,10495,Debit Card,Electronics,Kolkata
+1520,2022-10-11,104,3863.94,10351,UPI,Electronics,Kolkata
+1521,2022-04-24,116,4048.35,10412,Net Banking,Grocery,Hyderabad
+1522,2022-04-03,124,5843.71,10459,UPI,Books,Delhi
+1523,2022-08-15,116,5382.67,10491,Credit Card,Fashion,Mumbai
+1524,2022-11-06,102,6118.26,10321,UPI,Home & Kitchen,Mumbai
+1525,2023-07-27,149,7672.34,10049,Net Banking,Books,Chennai
+1526,2022-02-17,128,8148.56,10175,Debit Card,Home & Kitchen,Hyderabad
+1527,2022-03-31,132,7209.42,10052,Cash on Delivery,Books,Bangalore
+1528,2022-07-03,127,9559.68,10102,UPI,Electronics,Mumbai
+1529,2023-06-01,120,280.5,10216,Net Banking,Grocery,Hyderabad
+1530,2023-05-04,124,2038.2,10438,Net Banking,Home & Kitchen,Delhi
+1531,2023-06-17,112,174.87,10188,Debit Card,Books,Chennai
+1532,2023-02-23,150,6510.0,10057,Credit Card,Grocery,Kolkata
+1533,2022-10-22,135,8990.5,10047,UPI,Home & Kitchen,Delhi
+1534,2023-12-10,133,2510.47,10159,Net Banking,Fashion,Mumbai
+1535,2022-02-27,133,9277.64,10489,Debit Card,Books,Mumbai
+1536,2023-05-06,143,696.65,10174,Cash on Delivery,Fashion,Delhi
+1537,2022-09-17,137,9350.92,10242,Net Banking,Electronics,Mumbai
+1538,2023-05-21,112,3581.06,10282,Debit Card,Fashion,Hyderabad
+1539,2023-11-24,103,1104.07,10241,Credit Card,Fashion,Mumbai
+1540,2022-09-05,101,4910.13,10370,Credit Card,Books,Chennai
+1541,2023-05-21,133,2642.09,10005,Net Banking,Electronics,Hyderabad
+1542,2023-06-20,140,2920.24,10084,Net Banking,Fashion,Bangalore
+1543,2023-10-02,110,3142.17,10308,UPI,Grocery,Mumbai
+1544,2023-06-05,143,8049.96,10361,Debit Card,Home & Kitchen,Mumbai
+1545,2022-04-19,144,5437.7,10459,Net Banking,Fashion,Chennai
+1546,2023-08-13,129,3181.95,10248,UPI,Electronics,Chennai
+1547,2022-03-13,113,6142.3,10054,UPI,Fashion,Kolkata
+1548,2023-10-30,112,7189.89,10161,Net Banking,Home & Kitchen,Delhi
+1549,2022-10-30,131,2798.98,10434,Credit Card,Electronics,Delhi
+1550,2023-12-09,146,4194.14,10422,Debit Card,Books,Delhi
+1551,2023-02-19,102,1306.67,10411,Debit Card,Electronics,Chennai
+1552,2023-09-07,150,1893.38,10226,Credit Card,Books,Delhi
+1553,2022-03-13,135,6843.07,10015,Net Banking,Electronics,Delhi
+1554,2023-01-28,123,1896.24,10224,Debit Card,Home & Kitchen,Bangalore
+1555,2022-02-09,117,5299.12,10061,Net Banking,Home & Kitchen,Delhi
+1556,2023-01-16,126,7119.56,10122,Net Banking,Electronics,Mumbai
+1557,2023-04-29,108,1158.08,10277,UPI,Fashion,Kolkata
+1558,2023-05-01,129,5716.39,10046,Credit Card,Home & Kitchen,Chennai
+1559,2023-12-08,126,2639.97,10453,Net Banking,Books,Hyderabad
+1560,2023-01-08,110,9632.98,10390,Cash on Delivery,Books,Kolkata
+1561,2023-06-15,126,4887.1,10294,Credit Card,Grocery,Bangalore
+1562,2023-05-29,134,8079.33,10062,Debit Card,Books,Chennai
+1563,2022-01-27,141,5547.24,10086,UPI,Grocery,Chennai
+1564,2023-04-20,107,529.78,10446,Debit Card,Electronics,Mumbai
+1565,2022-01-07,104,6368.2,10210,Debit Card,Electronics,Kolkata
+1566,2022-11-06,150,9518.89,10078,Credit Card,Electronics,Kolkata
+1567,2023-06-09,145,6055.96,10202,Debit Card,Fashion,Delhi
+1568,2023-08-26,111,8209.97,10302,Net Banking,Fashion,Mumbai
+1569,2023-02-09,129,8853.64,10397,Debit Card,Grocery,Delhi
+1570,2023-11-29,136,2357.99,10223,UPI,Books,Delhi
+1571,2023-07-23,125,2199.24,10222,UPI,Books,Chennai
+1572,2023-05-14,121,6148.71,10003,Cash on Delivery,Electronics,Kolkata
+1573,2022-06-10,136,4169.18,10478,UPI,Home & Kitchen,Delhi
+1574,2022-09-18,110,8414.63,10006,Debit Card,Fashion,Bangalore
+1575,2022-10-22,137,9010.23,10093,UPI,Fashion,Bangalore
+1576,2022-05-13,109,3598.87,10008,Credit Card,Electronics,Kolkata
+1577,2022-04-30,124,2445.02,10428,UPI,Fashion,Bangalore
+1578,2023-02-26,135,7827.2,10493,Net Banking,Electronics,Chennai
+1579,2022-04-21,149,2820.58,10235,Credit Card,Grocery,Mumbai
+1580,2022-03-16,135,8243.88,10108,Cash on Delivery,Books,Hyderabad
+1581,2023-03-04,148,4295.01,10161,Net Banking,Home & Kitchen,Delhi
+1582,2023-06-18,136,6708.74,10209,Debit Card,Books,Hyderabad
+1583,2023-12-05,118,1045.8,10240,Debit Card,Books,Mumbai
+1584,2023-09-26,149,6276.21,10331,Debit Card,Grocery,Mumbai
+1585,2023-03-07,139,4572.5,10333,Net Banking,Fashion,Chennai
+1586,2022-03-29,132,5907.42,10050,Net Banking,Home & Kitchen,Bangalore
+1587,2023-04-09,124,1763.34,10011,Net Banking,Fashion,Bangalore
+1588,2022-01-30,123,7395.05,10351,Credit Card,Books,Mumbai
+1589,2023-07-11,132,8641.69,10156,Credit Card,Electronics,Chennai
+1590,2022-01-06,137,2245.72,10492,Debit Card,Books,Chennai
+1591,2023-11-21,112,1047.57,10070,UPI,Fashion,Kolkata
+1592,2022-03-20,149,334.02,10169,Debit Card,Books,Delhi
+1593,2022-12-21,113,6455.52,10272,Cash on Delivery,Electronics,Bangalore
+1594,2023-01-04,123,6110.23,10068,Credit Card,Grocery,Mumbai
+1595,2023-07-22,125,5512.3,10355,Net Banking,Fashion,Kolkata
+1596,2022-03-09,135,2396.28,10252,Credit Card,Books,Hyderabad
+1597,2022-04-03,141,3969.97,10048,Net Banking,Fashion,Bangalore
+1598,2023-10-12,130,5985.32,10184,Cash on Delivery,Grocery,Delhi
+1599,2022-03-12,117,5017.99,10320,Cash on Delivery,Books,Chennai
+1600,2022-07-20,149,9879.08,10187,Credit Card,Books,Mumbai
+1601,2022-03-26,120,1450.75,10090,Net Banking,Fashion,Bangalore
+1602,2023-01-24,148,6981.93,10446,Cash on Delivery,Fashion,Hyderabad
+1603,2022-05-08,125,4102.76,10332,Debit Card,Electronics,Delhi
+1604,2022-05-08,122,4339.18,10139,Debit Card,Grocery,Delhi
+1605,2022-11-09,113,7204.22,10357,Net Banking,Electronics,Kolkata
+1606,2023-01-08,119,6955.12,10089,Credit Card,Books,Bangalore
+1607,2023-12-18,149,9913.43,10274,Cash on Delivery,Fashion,Hyderabad
+1608,2022-07-18,136,1371.1,10019,Credit Card,Books,Delhi
+1609,2022-03-26,112,1130.69,10471,Debit Card,Books,Mumbai
+1610,2022-08-20,141,7270.95,10311,Cash on Delivery,Home & Kitchen,Delhi
+1611,2022-03-21,119,5826.03,10358,Credit Card,Home & Kitchen,Hyderabad
+1612,2023-09-14,112,2814.19,10374,UPI,Books,Chennai
+1613,2022-03-09,109,886.25,10466,Net Banking,Fashion,Chennai
+1614,2022-07-09,107,948.02,10154,Net Banking,Books,Kolkata
+1615,2022-02-25,128,8952.49,10390,UPI,Home & Kitchen,Bangalore
+1616,2022-06-20,114,1999.49,10260,Debit Card,Fashion,Hyderabad
+1617,2022-05-18,131,3301.38,10108,Cash on Delivery,Books,Kolkata
+1618,2022-06-30,119,2343.9,10371,Net Banking,Grocery,Delhi
+1619,2023-12-23,147,3614.46,10285,UPI,Grocery,Delhi
+1620,2023-06-17,116,787.3,10059,UPI,Books,Chennai
+1621,2023-11-17,105,5238.69,10125,Debit Card,Fashion,Kolkata
+1622,2022-08-23,135,769.36,10354,Debit Card,Books,Chennai
+1623,2022-03-20,112,8023.53,10273,Credit Card,Books,Mumbai
+1624,2023-12-25,125,2413.75,10107,Net Banking,Home & Kitchen,Chennai
+1625,2022-09-19,121,5446.12,10299,Credit Card,Grocery,Mumbai
+1626,2023-08-02,136,8812.78,10245,UPI,Home & Kitchen,Delhi
+1627,2022-11-24,123,6543.69,10336,Cash on Delivery,Home & Kitchen,Kolkata
+1628,2022-03-07,116,5376.28,10450,Cash on Delivery,Books,Mumbai
+1629,2023-02-24,139,3310.9,10418,Debit Card,Home & Kitchen,Kolkata
+1630,2022-11-13,145,3396.72,10247,Cash on Delivery,Grocery,Kolkata
+1631,2023-08-07,142,6727.92,10008,Cash on Delivery,Home & Kitchen,Mumbai
+1632,2023-08-06,139,9941.98,10141,Cash on Delivery,Grocery,Bangalore
+1633,2022-03-29,114,6652.21,10362,UPI,Home & Kitchen,Chennai
+1634,2023-06-04,131,5622.06,10008,Cash on Delivery,Grocery,Mumbai
+1635,2023-01-21,105,7333.44,10478,Cash on Delivery,Home & Kitchen,Delhi
+1636,2022-06-18,135,4705.54,10352,Cash on Delivery,Home & Kitchen,Kolkata
+1637,2022-09-24,123,695.41,10484,Credit Card,Fashion,Hyderabad
+1638,2023-02-15,129,5666.74,10495,UPI,Grocery,Mumbai
+1639,2022-11-01,143,9580.49,10094,Debit Card,Grocery,Chennai
+1640,2022-06-15,111,1835.5,10321,Credit Card,Grocery,Kolkata
+1641,2022-06-27,118,6931.05,10427,Net Banking,Electronics,Bangalore
+1642,2022-01-05,147,2089.24,10039,UPI,Home & Kitchen,Delhi
+1643,2022-05-04,112,5404.69,10081,UPI,Grocery,Bangalore
+1644,2022-01-27,109,1057.1,10187,Net Banking,Electronics,Hyderabad
+1645,2022-06-04,110,4558.67,10084,Net Banking,Fashion,Mumbai
+1646,2023-12-18,144,7586.02,10088,Net Banking,Grocery,Kolkata
+1647,2023-07-14,117,3540.96,10242,Debit Card,Grocery,Mumbai
+1648,2022-10-25,138,6682.63,10342,Cash on Delivery,Electronics,Chennai
+1649,2022-10-24,107,7974.95,10093,UPI,Home & Kitchen,Mumbai
+1650,2022-12-11,146,9279.06,10086,Cash on Delivery,Fashion,Delhi
+1651,2022-11-04,113,2422.96,10044,Cash on Delivery,Grocery,Hyderabad
+1652,2023-09-05,140,4053.23,10137,Net Banking,Home & Kitchen,Bangalore
+1653,2023-07-18,142,1608.92,10421,Debit Card,Fashion,Hyderabad
+1654,2023-10-02,109,9925.59,10074,Credit Card,Books,Kolkata
+1655,2023-01-08,150,9277.31,10036,Debit Card,Books,Mumbai
+1656,2022-07-04,127,5445.58,10101,Cash on Delivery,Fashion,Kolkata
+1657,2023-02-14,102,8436.13,10476,Debit Card,Electronics,Bangalore
+1658,2022-09-08,105,5257.48,10156,Net Banking,Fashion,Kolkata
+1659,2022-10-16,129,6273.5,10426,Credit Card,Fashion,Chennai
+1660,2023-11-18,137,982.33,10255,Net Banking,Electronics,Hyderabad
+1661,2022-11-07,138,7577.18,10171,Credit Card,Electronics,Bangalore
+1662,2023-09-09,119,1364.36,10469,Cash on Delivery,Home & Kitchen,Bangalore
+1663,2022-05-30,108,8278.07,10216,Credit Card,Home & Kitchen,Bangalore
+1664,2022-01-22,148,7842.08,10170,Credit Card,Electronics,Delhi
+1665,2022-04-03,145,7116.57,10252,Credit Card,Books,Hyderabad
+1666,2022-03-10,101,457.99,10360,Debit Card,Books,Kolkata
+1667,2024-01-01,122,3100.97,10322,Debit Card,Fashion,Bangalore
+1668,2022-09-06,117,2704.81,10055,Cash on Delivery,Grocery,Hyderabad
+1669,2023-03-14,107,3665.35,10456,Credit Card,Fashion,Bangalore
+1670,2023-12-29,125,967.66,10432,UPI,Fashion,Chennai
+1671,2022-01-12,145,9375.88,10091,Cash on Delivery,Grocery,Chennai
+1672,2022-04-17,104,5582.64,10278,Credit Card,Electronics,Chennai
+1673,2022-10-22,136,3124.69,10101,Credit Card,Books,Mumbai
+1674,2022-04-07,106,4030.12,10155,Debit Card,Fashion,Bangalore
+1675,2022-06-12,131,4527.31,10377,Cash on Delivery,Grocery,Mumbai
+1676,2022-01-08,119,6045.88,10349,Credit Card,Home & Kitchen,Hyderabad
+1677,2023-08-03,144,5205.23,10451,Credit Card,Fashion,Mumbai
+1678,2023-03-31,139,9201.98,10364,Cash on Delivery,Books,Hyderabad
+1679,2022-08-07,127,5019.94,10141,UPI,Electronics,Hyderabad
+1680,2022-10-02,110,9922.36,10173,Cash on Delivery,Fashion,Hyderabad
+1681,2022-06-16,126,8529.11,10010,Cash on Delivery,Fashion,Kolkata
+1682,2022-04-27,119,2164.25,10228,UPI,Grocery,Mumbai
+1683,2022-05-11,139,9312.89,10265,Cash on Delivery,Home & Kitchen,Kolkata
+1684,2023-02-07,103,1252.03,10438,Credit Card,Home & Kitchen,Bangalore
+1685,2023-01-26,145,8192.75,10248,Cash on Delivery,Electronics,Mumbai
+1686,2023-04-10,113,3868.17,10247,UPI,Books,Bangalore
+1687,2023-10-13,150,8791.95,10155,Net Banking,Electronics,Bangalore
+1688,2022-12-09,128,8693.76,10034,Cash on Delivery,Fashion,Hyderabad
+1689,2022-06-08,120,8078.66,10499,Debit Card,Fashion,Mumbai
+1690,2023-02-14,128,7921.3,10129,Credit Card,Home & Kitchen,Bangalore
+1691,2022-05-28,108,3116.32,10160,Credit Card,Books,Chennai
+1692,2022-08-09,141,901.1,10089,Debit Card,Grocery,Bangalore
+1693,2023-09-30,139,4089.5,10093,Debit Card,Books,Chennai
+1694,2023-01-31,101,1817.89,10327,Cash on Delivery,Fashion,Mumbai
+1695,2022-02-28,103,6980.02,10241,Debit Card,Grocery,Kolkata
+1696,2023-09-17,113,3526.39,10323,Net Banking,Books,Mumbai
+1697,2023-11-04,128,9758.54,10468,UPI,Books,Kolkata
+1698,2022-04-10,149,6445.62,10404,Debit Card,Grocery,Kolkata
+1699,2022-06-30,125,8242.56,10117,Debit Card,Fashion,Mumbai
+1700,2023-04-10,133,1411.99,10094,Net Banking,Books,Bangalore
+1701,2022-06-17,138,8633.94,10163,Credit Card,Grocery,Delhi
+1702,2022-03-12,106,9235.3,10099,Credit Card,Fashion,Bangalore
+1703,2023-06-12,144,4921.91,10113,Cash on Delivery,Grocery,Bangalore
+1704,2023-10-25,145,6101.9,10359,Net Banking,Grocery,Hyderabad
+1705,2022-10-10,132,7671.62,10091,UPI,Books,Hyderabad
+1706,2022-04-23,145,1830.9,10346,UPI,Fashion,Bangalore
+1707,2023-03-13,147,5075.4,10206,Net Banking,Books,Chennai
+1708,2023-02-03,121,4046.76,10017,UPI,Electronics,Kolkata
+1709,2023-04-09,116,1549.1,10274,Credit Card,Electronics,Hyderabad
+1710,2022-10-16,121,3738.59,10173,UPI,Fashion,Bangalore
+1711,2023-05-07,111,774.91,10116,UPI,Grocery,Delhi
+1712,2023-02-19,137,355.54,10349,Net Banking,Books,Chennai
+1713,2022-03-05,136,1438.15,10468,Net Banking,Books,Mumbai
+1714,2023-04-03,135,9634.84,10181,UPI,Fashion,Bangalore
+1715,2023-09-25,119,5540.34,10091,Debit Card,Fashion,Bangalore
+1716,2022-04-14,120,9661.64,10082,Net Banking,Electronics,Kolkata
+1717,2023-07-10,118,4381.73,10324,Cash on Delivery,Home & Kitchen,Chennai
+1718,2023-05-12,147,3186.98,10449,Cash on Delivery,Fashion,Hyderabad
+1719,2022-03-24,141,5110.8,10114,Credit Card,Home & Kitchen,Hyderabad
+1720,2022-06-09,149,4451.17,10257,UPI,Fashion,Hyderabad
+1721,2023-06-19,114,1146.08,10058,Debit Card,Grocery,Mumbai
+1722,2023-06-06,115,6444.18,10154,Credit Card,Grocery,Chennai
+1723,2022-07-09,131,2238.78,10365,UPI,Electronics,Chennai
+1724,2022-01-28,101,6233.92,10404,Net Banking,Electronics,Hyderabad
+1725,2022-05-21,103,6536.99,10116,Cash on Delivery,Home & Kitchen,Hyderabad
+1726,2023-09-23,116,1605.05,10343,Debit Card,Fashion,Kolkata
+1727,2023-04-29,123,707.36,10266,Cash on Delivery,Books,Delhi
+1728,2022-04-14,111,7829.54,10315,Net Banking,Electronics,Delhi
+1729,2022-09-09,112,4652.02,10203,UPI,Books,Bangalore
+1730,2022-01-10,110,675.82,10041,Net Banking,Books,Bangalore
+1731,2023-06-28,132,9949.18,10105,Net Banking,Fashion,Chennai
+1732,2022-01-11,116,672.03,10389,Cash on Delivery,Home & Kitchen,Chennai
+1733,2023-02-14,108,6980.85,10378,Debit Card,Fashion,Mumbai
+1734,2023-04-13,138,9838.42,10193,Net Banking,Electronics,Mumbai
+1735,2023-11-24,112,2467.88,10401,Cash on Delivery,Books,Delhi
+1736,2023-06-26,124,1508.27,10278,Debit Card,Fashion,Bangalore
+1737,2022-12-30,128,1301.71,10354,UPI,Fashion,Delhi
+1738,2023-06-29,108,3102.42,10237,UPI,Fashion,Delhi
+1739,2022-05-08,128,1100.35,10425,Credit Card,Electronics,Bangalore
+1740,2022-09-06,136,6952.4,10221,Cash on Delivery,Home & Kitchen,Mumbai
+1741,2023-07-26,126,716.69,10068,Debit Card,Fashion,Kolkata
+1742,2023-04-15,108,5143.28,10197,Net Banking,Electronics,Kolkata
+1743,2023-05-30,150,9967.3,10256,UPI,Books,Kolkata
+1744,2023-06-21,128,8158.31,10139,Debit Card,Grocery,Bangalore
+1745,2023-09-30,128,6190.67,10312,Cash on Delivery,Electronics,Hyderabad
+1746,2022-02-21,137,3131.91,10435,Credit Card,Grocery,Hyderabad
+1747,2022-11-25,141,6276.57,10149,UPI,Fashion,Hyderabad
+1748,2023-09-05,136,5317.71,10099,Debit Card,Fashion,Chennai
+1749,2022-07-29,127,4318.23,10076,Debit Card,Electronics,Mumbai
+1750,2022-03-28,117,1394.03,10282,Debit Card,Grocery,Mumbai
+1751,2022-04-07,109,8877.38,10371,Cash on Delivery,Fashion,Chennai
+1752,2023-07-22,133,4552.87,10403,Cash on Delivery,Books,Delhi
+1753,2022-02-08,120,2026.76,10109,Cash on Delivery,Home & Kitchen,Kolkata
+1754,2022-06-29,113,3740.82,10188,Net Banking,Home & Kitchen,Hyderabad
+1755,2023-05-01,128,4199.88,10199,Debit Card,Fashion,Kolkata
+1756,2023-02-10,148,8292.63,10303,UPI,Grocery,Hyderabad
+1757,2023-08-21,129,7362.78,10327,Cash on Delivery,Fashion,Kolkata
+1758,2022-05-07,113,7716.12,10154,Cash on Delivery,Grocery,Delhi
+1759,2022-08-26,146,209.21,10040,Debit Card,Books,Kolkata
+1760,2022-04-03,135,4219.92,10133,Cash on Delivery,Grocery,Kolkata
+1761,2023-02-18,106,4865.31,10405,Net Banking,Fashion,Bangalore
+1762,2023-11-18,118,290.0,10462,Net Banking,Books,Kolkata
+1763,2023-04-30,105,2672.15,10132,Cash on Delivery,Electronics,Bangalore
+1764,2023-03-12,147,7626.87,10279,Debit Card,Home & Kitchen,Mumbai
+1765,2023-01-03,125,1457.39,10362,Debit Card,Fashion,Chennai
+1766,2023-11-14,102,5399.57,10084,Debit Card,Fashion,Kolkata
+1767,2022-12-19,110,2230.5,10399,Credit Card,Fashion,Mumbai
+1768,2022-11-19,130,220.0,10242,Cash on Delivery,Books,Bangalore
+1769,2022-08-15,150,2487.89,10116,Debit Card,Electronics,Kolkata
+1770,2023-09-20,145,9761.15,10109,Net Banking,Grocery,Kolkata
+1771,2022-12-24,105,8035.22,10221,UPI,Electronics,Delhi
+1772,2022-02-16,133,9599.81,10392,UPI,Books,Mumbai
+1773,2022-10-24,101,4929.76,10041,Debit Card,Fashion,Hyderabad
+1774,2022-08-02,118,1186.39,10368,UPI,Home & Kitchen,Hyderabad
+1775,2023-07-23,132,5524.8,10147,UPI,Fashion,Delhi
+1776,2023-01-07,147,4598.34,10112,Credit Card,Grocery,Bangalore
+1777,2022-02-08,149,8459.14,10103,Net Banking,Home & Kitchen,Hyderabad
+1778,2022-05-22,111,1071.02,10046,Net Banking,Fashion,Hyderabad
+1779,2022-06-01,121,4933.59,10412,Credit Card,Home & Kitchen,Chennai
+1780,2022-02-08,126,1585.48,10494,Credit Card,Electronics,Mumbai
+1781,2022-11-06,125,3314.29,10475,UPI,Books,Bangalore
+1782,2023-07-30,122,7399.84,10324,Cash on Delivery,Fashion,Kolkata
+1783,2022-03-23,127,4812.58,10378,UPI,Grocery,Mumbai
+1784,2022-08-24,149,3821.29,10271,Credit Card,Electronics,Bangalore
+1785,2023-08-23,113,4005.32,10483,Net Banking,Fashion,Hyderabad
+1786,2022-10-21,133,4648.52,10421,UPI,Electronics,Chennai
+1787,2023-05-06,134,7871.66,10385,Cash on Delivery,Grocery,Mumbai
+1788,2023-05-25,141,8931.64,10195,UPI,Fashion,Hyderabad
+1789,2022-01-07,135,9557.81,10367,Debit Card,Grocery,Bangalore
+1790,2022-12-01,101,7890.34,10280,UPI,Home & Kitchen,Mumbai
+1791,2023-05-07,121,3222.53,10283,Credit Card,Grocery,Kolkata
+1792,2022-04-30,148,6912.53,10040,Net Banking,Home & Kitchen,Mumbai
+1793,2023-07-22,106,4432.27,10447,Net Banking,Fashion,Hyderabad
+1794,2023-03-29,128,2621.24,10189,Credit Card,Home & Kitchen,Mumbai
+1795,2023-07-29,117,8424.63,10164,Debit Card,Fashion,Kolkata
+1796,2022-10-28,105,480.42,10482,Credit Card,Fashion,Chennai
+1797,2022-05-07,131,9027.44,10477,UPI,Books,Chennai
+1798,2023-06-27,105,4668.63,10024,Credit Card,Fashion,Hyderabad
+1799,2023-10-26,138,6408.29,10024,Credit Card,Home & Kitchen,Bangalore
+1800,2022-10-21,103,6627.6,10490,Debit Card,Books,Hyderabad
+1801,2023-06-01,123,8961.67,10004,UPI,Books,Chennai
+1802,2023-04-26,137,6403.03,10323,Cash on Delivery,Fashion,Delhi
+1803,2022-11-23,137,6177.94,10290,Cash on Delivery,Grocery,Delhi
+1804,2022-05-17,110,759.86,10441,Net Banking,Grocery,Mumbai
+1805,2022-09-07,110,5232.24,10433,Credit Card,Books,Kolkata
+1806,2023-10-02,119,1586.67,10471,Net Banking,Fashion,Mumbai
+1807,2022-09-09,117,7400.59,10181,Debit Card,Grocery,Delhi
+1808,2022-09-17,121,5171.0,10248,Cash on Delivery,Fashion,Chennai
+1809,2022-09-23,114,6834.26,10116,Credit Card,Fashion,Mumbai
+1810,2022-04-17,109,512.56,10279,Debit Card,Books,Hyderabad
+1811,2023-10-30,146,939.44,10365,Debit Card,Books,Kolkata
+1812,2022-09-05,101,7191.6,10069,Credit Card,Electronics,Hyderabad
+1813,2023-04-22,145,813.63,10351,Debit Card,Grocery,Kolkata
+1814,2023-01-05,113,805.44,10254,Credit Card,Grocery,Chennai
+1815,2022-04-23,104,219.87,10181,Credit Card,Grocery,Mumbai
+1816,2023-09-21,101,9569.36,10318,UPI,Home & Kitchen,Kolkata
+1817,2022-11-06,149,7401.33,10169,Net Banking,Fashion,Hyderabad
+1818,2022-11-19,140,3597.19,10313,Debit Card,Books,Mumbai
+1819,2022-10-06,132,3035.7,10249,Debit Card,Grocery,Mumbai
+1820,2022-04-07,134,3562.06,10188,UPI,Electronics,Hyderabad
+1821,2022-11-07,128,7769.07,10054,UPI,Grocery,Delhi
+1822,2022-02-14,131,6647.57,10326,UPI,Fashion,Kolkata
+1823,2022-12-24,108,1933.44,10357,Cash on Delivery,Fashion,Hyderabad
+1824,2022-09-29,139,1823.68,10313,Cash on Delivery,Books,Chennai
+1825,2023-08-08,126,1074.12,10138,Cash on Delivery,Home & Kitchen,Bangalore
+1826,2022-02-06,134,6637.0,10168,Credit Card,Books,Hyderabad
+1827,2023-07-30,103,7667.29,10391,Debit Card,Grocery,Mumbai
+1828,2022-05-09,150,2723.96,10103,Net Banking,Electronics,Mumbai
+1829,2023-04-02,112,307.36,10422,Credit Card,Books,Hyderabad
+1830,2022-11-19,101,913.5,10085,Debit Card,Home & Kitchen,Bangalore
+1831,2022-04-11,144,9681.81,10317,Debit Card,Books,Hyderabad
+1832,2023-03-20,105,3024.9,10212,UPI,Fashion,Bangalore
+1833,2022-10-20,130,7715.31,10003,UPI,Grocery,Bangalore
+1834,2023-11-29,130,6284.17,10384,Credit Card,Grocery,Chennai
+1835,2023-07-18,117,3881.2,10179,UPI,Grocery,Kolkata
+1836,2022-07-12,148,2136.3,10342,Debit Card,Grocery,Mumbai
+1837,2023-05-08,147,1301.73,10303,UPI,Grocery,Mumbai
+1838,2023-04-07,123,6188.63,10452,Cash on Delivery,Grocery,Bangalore
+1839,2023-05-02,115,7768.87,10476,UPI,Electronics,Mumbai
+1840,2023-08-16,137,6474.65,10332,Debit Card,Home & Kitchen,Delhi
+1841,2022-02-09,121,5349.99,10038,Credit Card,Grocery,Bangalore
+1842,2022-06-28,114,515.32,10499,Net Banking,Home & Kitchen,Mumbai
+1843,2023-11-20,102,9688.04,10420,UPI,Grocery,Delhi
+1844,2022-03-23,111,8007.27,10239,Debit Card,Books,Chennai
+1845,2022-06-03,139,2998.94,10169,Net Banking,Grocery,Mumbai
+1846,2022-08-28,138,9801.71,10453,Net Banking,Fashion,Delhi
+1847,2023-05-17,134,6058.63,10397,Cash on Delivery,Electronics,Hyderabad
+1848,2023-07-25,138,5865.98,10343,Net Banking,Books,Kolkata
+1849,2022-01-17,150,7505.92,10314,Debit Card,Books,Hyderabad
+1850,2022-03-28,134,8136.52,10306,Debit Card,Fashion,Delhi
+1851,2022-03-16,118,6599.14,10030,UPI,Grocery,Bangalore
+1852,2023-03-28,130,1368.15,10190,UPI,Electronics,Bangalore
+1853,2022-01-28,115,3448.85,10357,UPI,Books,Mumbai
+1854,2023-02-07,127,9288.03,10025,Net Banking,Electronics,Hyderabad
+1855,2023-12-03,134,2323.69,10112,Net Banking,Books,Bangalore
+1856,2023-05-06,138,3784.45,10411,Cash on Delivery,Grocery,Bangalore
+1857,2023-01-12,133,4377.56,10435,UPI,Books,Hyderabad
+1858,2022-09-23,124,4450.11,10206,Credit Card,Books,Chennai
+1859,2022-11-06,115,6168.1,10185,Cash on Delivery,Home & Kitchen,Bangalore
+1860,2022-12-21,130,9436.45,10382,Credit Card,Grocery,Kolkata
+1861,2023-11-21,142,2482.86,10496,Net Banking,Fashion,Delhi
+1862,2022-07-24,117,1302.86,10379,Cash on Delivery,Fashion,Mumbai
+1863,2023-11-19,105,2054.96,10047,Cash on Delivery,Grocery,Bangalore
+1864,2022-09-28,129,8880.56,10374,Debit Card,Fashion,Kolkata
+1865,2022-04-18,104,6493.53,10228,Net Banking,Grocery,Kolkata
+1866,2022-04-04,110,2930.48,10039,Net Banking,Fashion,Bangalore
+1867,2022-04-30,117,8177.87,10016,Cash on Delivery,Home & Kitchen,Chennai
+1868,2023-03-08,110,8627.56,10022,Net Banking,Fashion,Delhi
+1869,2022-06-29,117,8480.49,10213,Cash on Delivery,Books,Mumbai
+1870,2023-09-18,120,9197.37,10310,Debit Card,Grocery,Bangalore
+1871,2023-02-16,124,2597.19,10149,Cash on Delivery,Electronics,Mumbai
+1872,2022-03-17,105,7574.92,10456,Net Banking,Electronics,Hyderabad
+1873,2022-02-19,134,4659.34,10241,Net Banking,Grocery,Kolkata
+1874,2023-05-28,106,8435.79,10272,Cash on Delivery,Home & Kitchen,Kolkata
+1875,2023-11-12,102,7312.06,10059,Cash on Delivery,Fashion,Bangalore
+1876,2022-12-24,113,7786.83,10287,Cash on Delivery,Home & Kitchen,Bangalore
+1877,2022-04-16,143,6596.0,10426,UPI,Electronics,Hyderabad
+1878,2023-12-20,143,1856.54,10202,Net Banking,Grocery,Chennai
+1879,2023-10-03,148,5495.77,10032,Net Banking,Grocery,Bangalore
+1880,2022-12-04,111,9848.23,10443,UPI,Home & Kitchen,Kolkata
+1881,2023-02-14,147,9380.14,10162,Cash on Delivery,Home & Kitchen,Mumbai
+1882,2022-04-08,123,527.42,10255,Debit Card,Fashion,Delhi
+1883,2022-03-30,116,1731.67,10254,Cash on Delivery,Books,Mumbai
+1884,2022-04-05,131,1404.11,10009,Cash on Delivery,Books,Chennai
+1885,2022-08-21,111,7287.2,10465,UPI,Fashion,Delhi
+1886,2023-07-12,116,8196.07,10139,Net Banking,Books,Mumbai
+1887,2023-05-23,108,2213.76,10480,Cash on Delivery,Electronics,Mumbai
+1888,2023-01-14,104,5107.94,10010,Net Banking,Books,Hyderabad
+1889,2022-09-23,140,8422.96,10214,Credit Card,Fashion,Chennai
+1890,2023-12-11,104,7354.74,10273,Net Banking,Books,Kolkata
+1891,2022-05-03,125,5468.15,10324,Debit Card,Grocery,Hyderabad
+1892,2023-03-21,103,5944.44,10048,Debit Card,Home & Kitchen,Delhi
+1893,2023-10-02,132,5132.77,10436,Cash on Delivery,Electronics,Kolkata
+1894,2023-12-16,103,3045.73,10111,Net Banking,Grocery,Hyderabad
+1895,2022-05-29,127,5693.72,10153,Cash on Delivery,Grocery,Chennai
+1896,2023-08-26,129,6919.96,10123,UPI,Fashion,Bangalore
+1897,2022-10-22,132,8745.9,10405,Debit Card,Home & Kitchen,Bangalore
+1898,2022-05-13,150,6399.28,10357,Cash on Delivery,Home & Kitchen,Delhi
+1899,2022-01-09,119,7635.1,10102,UPI,Electronics,Bangalore
+1900,2022-06-16,121,1684.71,10241,Cash on Delivery,Fashion,Hyderabad
+1901,2022-02-02,105,4669.42,10321,Net Banking,Electronics,Delhi
+1902,2023-06-05,118,192.38,10191,Net Banking,Books,Kolkata
+1903,2022-06-24,128,2542.12,10217,Net Banking,Grocery,Chennai
+1904,2023-01-13,142,7291.97,10051,Net Banking,Electronics,Delhi
+1905,2023-06-30,122,9918.92,10292,Credit Card,Grocery,Kolkata
+1906,2023-06-10,121,1081.86,10081,UPI,Fashion,Delhi
+1907,2022-01-02,106,4074.79,10489,UPI,Books,Mumbai
+1908,2022-11-04,101,8020.7,10383,Net Banking,Fashion,Mumbai
+1909,2023-02-13,105,2119.95,10088,Credit Card,Books,Delhi
+1910,2022-12-16,141,5595.34,10194,Net Banking,Books,Bangalore
+1911,2023-10-27,112,7357.41,10104,Credit Card,Grocery,Mumbai
+1912,2023-12-27,126,6198.26,10271,Net Banking,Fashion,Chennai
+1913,2022-11-09,146,1961.44,10096,Debit Card,Fashion,Kolkata
+1914,2023-10-22,134,3618.31,10423,Debit Card,Electronics,Hyderabad
+1915,2022-03-27,149,7859.54,10379,Cash on Delivery,Fashion,Mumbai
+1916,2022-05-02,114,5586.84,10198,Net Banking,Electronics,Delhi
+1917,2023-01-09,126,151.77,10001,UPI,Home & Kitchen,Bangalore
+1918,2023-02-16,145,7633.81,10495,Cash on Delivery,Home & Kitchen,Hyderabad
+1919,2023-09-01,127,449.58,10407,Debit Card,Home & Kitchen,Kolkata
+1920,2022-12-17,109,7482.76,10378,Net Banking,Fashion,Kolkata
+1921,2022-05-17,126,2104.56,10167,Cash on Delivery,Fashion,Mumbai
+1922,2023-01-28,147,9584.93,10126,Net Banking,Electronics,Kolkata
+1923,2023-06-05,122,3742.61,10313,Debit Card,Books,Kolkata
+1924,2022-10-04,147,3336.62,10081,Cash on Delivery,Electronics,Bangalore
+1925,2022-06-18,130,1573.99,10418,Debit Card,Home & Kitchen,Bangalore
+1926,2023-11-17,143,3125.48,10251,Credit Card,Electronics,Bangalore
+1927,2022-12-01,148,8778.84,10169,Debit Card,Books,Delhi
+1928,2023-09-20,117,9963.71,10477,Net Banking,Fashion,Kolkata
+1929,2023-02-05,126,3746.26,10073,UPI,Electronics,Kolkata
+1930,2022-07-27,136,4541.25,10141,Debit Card,Home & Kitchen,Kolkata
+1931,2022-01-15,101,7248.5,10070,UPI,Home & Kitchen,Chennai
+1932,2023-06-11,108,8873.34,10262,Credit Card,Fashion,Bangalore
+1933,2022-01-26,149,5971.14,10340,Cash on Delivery,Electronics,Hyderabad
+1934,2023-12-20,135,3976.1,10308,Cash on Delivery,Books,Mumbai
+1935,2022-05-20,115,4184.96,10245,UPI,Fashion,Hyderabad
+1936,2023-03-05,147,6986.62,10003,Cash on Delivery,Electronics,Delhi
+1937,2023-12-13,122,131.86,10337,Debit Card,Grocery,Delhi
+1938,2023-08-02,114,6233.93,10063,UPI,Home & Kitchen,Kolkata
+1939,2023-04-12,126,3619.38,10049,Net Banking,Books,Hyderabad
+1940,2022-10-29,128,7962.55,10076,Debit Card,Books,Kolkata
+1941,2023-01-06,123,1020.61,10368,Debit Card,Books,Chennai
+1942,2022-06-18,114,5923.2,10175,Debit Card,Home & Kitchen,Delhi
+1943,2022-05-30,124,4861.63,10109,Net Banking,Electronics,Delhi
+1944,2023-09-15,102,6459.02,10183,Credit Card,Fashion,Hyderabad
+1945,2022-01-04,145,742.05,10192,Cash on Delivery,Electronics,Delhi
+1946,2022-10-12,126,5841.84,10065,UPI,Fashion,Chennai
+1947,2023-05-09,114,5658.7,10337,Credit Card,Books,Chennai
+1948,2022-10-27,107,5650.53,10451,UPI,Electronics,Chennai
+1949,2022-01-08,103,6074.53,10474,Cash on Delivery,Books,Mumbai
+1950,2023-11-29,147,6797.03,10271,Net Banking,Grocery,Chennai
+1951,2023-01-27,123,8069.39,10100,Debit Card,Books,Chennai
+1952,2023-05-20,146,2771.23,10032,Debit Card,Books,Mumbai
+1953,2023-08-23,143,8267.99,10352,Net Banking,Fashion,Kolkata
+1954,2023-04-28,147,5032.73,10128,Credit Card,Grocery,Bangalore
+1955,2022-02-13,145,862.88,10452,Credit Card,Books,Delhi
+1956,2023-08-14,118,679.65,10402,UPI,Books,Chennai
+1957,2022-04-04,138,3408.96,10369,Net Banking,Grocery,Delhi
+1958,2023-04-30,135,7870.48,10339,Credit Card,Grocery,Hyderabad
+1959,2023-09-14,115,7106.04,10043,Net Banking,Electronics,Delhi
+1960,2022-08-14,125,7907.29,10372,Cash on Delivery,Fashion,Kolkata
+1961,2022-07-28,137,5220.96,10419,Debit Card,Grocery,Mumbai
+1962,2023-01-14,128,4457.97,10488,Debit Card,Grocery,Delhi
+1963,2023-05-16,110,1559.78,10078,Debit Card,Home & Kitchen,Delhi
+1964,2023-06-05,139,3349.11,10314,Net Banking,Grocery,Delhi
+1965,2022-07-17,117,4396.79,10289,Net Banking,Fashion,Bangalore
+1966,2023-01-21,139,977.14,10270,UPI,Books,Bangalore
+1967,2022-01-05,122,2284.06,10162,Debit Card,Books,Hyderabad
+1968,2022-08-10,126,6022.43,10189,UPI,Books,Mumbai
+1969,2022-05-20,144,7383.06,10247,Debit Card,Books,Delhi
+1970,2022-08-10,125,9983.64,10388,UPI,Home & Kitchen,Delhi
+1971,2022-01-29,117,9337.82,10216,UPI,Grocery,Delhi
+1972,2023-10-11,113,6461.4,10315,Cash on Delivery,Books,Delhi
+1973,2023-03-06,120,4270.36,10413,UPI,Electronics,Bangalore
+1974,2022-02-27,125,6398.16,10339,Net Banking,Books,Kolkata
+1975,2023-12-19,104,7877.95,10390,UPI,Grocery,Kolkata
+1976,2023-01-27,110,1271.53,10377,Debit Card,Books,Hyderabad
+1977,2022-04-03,103,4158.06,10481,UPI,Home & Kitchen,Chennai
+1978,2022-04-02,141,8414.04,10433,Credit Card,Fashion,Mumbai
+1979,2022-06-12,145,3899.95,10168,Debit Card,Fashion,Kolkata
+1980,2022-11-29,118,5761.54,10339,Credit Card,Grocery,Delhi
+1981,2023-01-13,147,5918.92,10193,Debit Card,Fashion,Kolkata
+1982,2023-06-23,136,1926.31,10453,Net Banking,Fashion,Hyderabad
+1983,2023-04-27,147,3686.13,10283,Net Banking,Electronics,Chennai
+1984,2023-04-01,122,3411.66,10336,Net Banking,Grocery,Kolkata
+1985,2023-03-06,134,359.35,10390,Credit Card,Grocery,Hyderabad
+1986,2022-04-08,147,339.5,10488,Cash on Delivery,Fashion,Bangalore
+1987,2023-04-27,108,8333.8,10013,Debit Card,Fashion,Chennai
+1988,2022-09-30,140,2803.4,10240,Net Banking,Fashion,Hyderabad
+1989,2022-03-22,149,5228.98,10320,Debit Card,Home & Kitchen,Kolkata
+1990,2023-03-18,144,3057.38,10446,Credit Card,Books,Bangalore
+1991,2023-10-11,119,9412.72,10483,Cash on Delivery,Home & Kitchen,Hyderabad
+1992,2022-02-16,142,2667.04,10147,Credit Card,Grocery,Hyderabad
+1993,2023-11-16,141,4353.6,10204,Debit Card,Electronics,Kolkata
+1994,2022-03-12,137,8740.03,10080,Cash on Delivery,Books,Chennai
+1995,2022-12-25,106,8435.14,10379,Cash on Delivery,Electronics,Bangalore
+1996,2023-12-10,126,1942.4,10043,Credit Card,Grocery,Delhi
+1997,2022-06-03,134,8046.17,10458,Net Banking,Grocery,Mumbai
+1998,2022-01-09,145,4636.05,10089,Debit Card,Electronics,Chennai
+1999,2023-02-13,106,4881.39,10148,UPI,Electronics,Bangalore
+2000,2023-03-25,137,1421.45,10095,UPI,Electronics,Hyderabad
+2001,2022-11-20,133,897.95,10452,Credit Card,Grocery,Bangalore
+2002,2022-11-21,122,7306.6,10428,Debit Card,Fashion,Mumbai
+2003,2023-01-16,121,5014.97,10151,Debit Card,Electronics,Kolkata
+2004,2023-03-18,106,4424.82,10002,Credit Card,Books,Mumbai
+2005,2022-11-20,106,7322.13,10376,Debit Card,Grocery,Delhi
+2006,2022-03-19,148,7678.58,10022,Net Banking,Home & Kitchen,Delhi
+2007,2023-04-07,104,1673.19,10371,Credit Card,Home & Kitchen,Mumbai
+2008,2023-12-29,130,6141.23,10313,Net Banking,Books,Chennai
+2009,2022-09-14,111,1440.01,10485,Debit Card,Fashion,Chennai
+2010,2022-08-07,130,7538.61,10328,Credit Card,Electronics,Hyderabad
+2011,2022-07-08,131,6603.86,10007,Debit Card,Grocery,Delhi
+2012,2022-02-21,124,9570.48,10206,Credit Card,Electronics,Hyderabad
+2013,2022-07-19,109,782.68,10440,Debit Card,Grocery,Delhi
+2014,2022-03-25,103,664.84,10375,Net Banking,Home & Kitchen,Mumbai
+2015,2023-07-25,131,2893.65,10451,Net Banking,Electronics,Chennai
+2016,2022-07-29,140,2690.89,10114,Debit Card,Books,Chennai
+2017,2022-08-27,137,2545.09,10272,Credit Card,Fashion,Mumbai
+2018,2022-09-11,136,9071.92,10083,UPI,Books,Hyderabad
+2019,2023-02-04,124,2570.51,10179,Net Banking,Fashion,Hyderabad
+2020,2022-09-04,131,2792.3,10210,Net Banking,Electronics,Bangalore
+2021,2023-09-10,106,7618.04,10500,UPI,Electronics,Delhi
+2022,2023-03-22,102,4552.42,10464,Debit Card,Fashion,Hyderabad
+2023,2023-12-21,120,7789.43,10328,Credit Card,Home & Kitchen,Mumbai
+2024,2023-12-18,128,747.12,10124,Debit Card,Grocery,Hyderabad
+2025,2023-11-19,111,4926.95,10481,Cash on Delivery,Books,Chennai
+2026,2023-04-02,104,432.77,10113,Net Banking,Books,Delhi
+2027,2023-08-07,115,720.27,10012,Cash on Delivery,Books,Kolkata
+2028,2023-09-03,106,9073.73,10126,Net Banking,Electronics,Bangalore
+2029,2022-09-28,149,1478.53,10053,Net Banking,Books,Delhi
+2030,2022-02-18,130,5370.96,10331,Cash on Delivery,Grocery,Chennai
+2031,2022-09-06,138,4169.85,10389,Cash on Delivery,Grocery,Chennai
+2032,2023-03-10,102,3538.7,10283,Debit Card,Fashion,Chennai
+2033,2023-10-06,115,9008.35,10140,Cash on Delivery,Electronics,Chennai
+2034,2023-05-13,111,316.05,10401,Debit Card,Grocery,Mumbai
+2035,2022-08-08,108,6671.52,10390,Debit Card,Home & Kitchen,Bangalore
+2036,2023-06-14,126,9637.6,10097,Debit Card,Electronics,Kolkata
+2037,2022-03-03,145,5645.67,10005,Net Banking,Electronics,Chennai
+2038,2023-08-06,144,9374.54,10057,Net Banking,Grocery,Chennai
+2039,2022-05-14,105,617.35,10412,Cash on Delivery,Home & Kitchen,Hyderabad
+2040,2023-04-28,106,4246.05,10334,Net Banking,Fashion,Bangalore
+2041,2023-12-06,126,2675.56,10069,Cash on Delivery,Grocery,Delhi
+2042,2023-03-14,104,7335.13,10118,Net Banking,Home & Kitchen,Bangalore
+2043,2022-03-05,119,9814.84,10376,Credit Card,Electronics,Bangalore
+2044,2022-02-04,120,2639.65,10059,Credit Card,Home & Kitchen,Kolkata
+2045,2023-10-19,133,6576.33,10033,Cash on Delivery,Electronics,Bangalore
+2046,2023-09-07,120,2061.17,10318,Net Banking,Grocery,Kolkata
+2047,2022-11-23,149,5696.77,10050,Net Banking,Grocery,Chennai
+2048,2022-10-31,112,4692.93,10368,Debit Card,Books,Chennai
+2049,2022-04-20,147,9722.85,10489,UPI,Books,Mumbai
+2050,2023-06-08,101,6124.42,10019,Cash on Delivery,Books,Kolkata
+2051,2023-06-08,126,3560.11,10214,UPI,Grocery,Kolkata
+2052,2023-12-15,114,1229.55,10197,UPI,Fashion,Delhi
+2053,2022-04-06,138,1597.34,10379,Cash on Delivery,Grocery,Hyderabad
+2054,2022-12-13,137,2330.64,10450,Net Banking,Home & Kitchen,Bangalore
+2055,2023-11-26,111,2584.57,10478,Cash on Delivery,Grocery,Delhi
+2056,2023-06-17,136,8521.1,10047,UPI,Grocery,Kolkata
+2057,2023-07-31,113,5656.11,10167,Net Banking,Electronics,Delhi
+2058,2023-04-06,143,5281.57,10452,Credit Card,Electronics,Mumbai
+2059,2023-12-03,103,1236.21,10289,Cash on Delivery,Electronics,Hyderabad
+2060,2022-08-12,133,8615.38,10141,Cash on Delivery,Grocery,Kolkata
+2061,2023-10-28,106,7255.86,10084,Net Banking,Fashion,Kolkata
+2062,2023-05-06,150,769.92,10182,Credit Card,Home & Kitchen,Bangalore
+2063,2022-03-14,110,7107.57,10391,Credit Card,Home & Kitchen,Hyderabad
+2064,2023-11-15,105,5481.03,10079,Net Banking,Fashion,Mumbai
+2065,2023-09-04,123,909.08,10215,Debit Card,Fashion,Chennai
+2066,2022-07-21,110,4637.18,10014,Cash on Delivery,Home & Kitchen,Delhi
+2067,2022-03-14,144,4898.49,10215,Cash on Delivery,Books,Bangalore
+2068,2023-04-05,102,1741.17,10403,UPI,Electronics,Kolkata
+2069,2023-11-09,113,9462.41,10128,Net Banking,Electronics,Chennai
+2070,2022-08-12,140,8514.76,10310,UPI,Home & Kitchen,Mumbai
+2071,2022-01-04,102,6723.32,10477,UPI,Fashion,Hyderabad
+2072,2022-06-04,120,4676.73,10248,Credit Card,Books,Delhi
+2073,2022-07-29,101,4176.48,10404,Cash on Delivery,Home & Kitchen,Bangalore
+2074,2023-09-10,137,6544.64,10029,UPI,Electronics,Kolkata
+2075,2023-08-24,109,5499.78,10280,Credit Card,Grocery,Kolkata
+2076,2023-04-01,117,716.5,10338,Net Banking,Fashion,Chennai
+2077,2022-06-30,109,5173.78,10319,UPI,Grocery,Chennai
+2078,2023-01-15,111,8083.4,10202,Cash on Delivery,Home & Kitchen,Delhi
+2079,2023-04-23,115,4646.47,10361,UPI,Electronics,Hyderabad
+2080,2022-12-27,124,614.37,10057,Net Banking,Books,Mumbai
+2081,2022-12-07,138,7884.15,10392,UPI,Grocery,Hyderabad
+2082,2022-11-21,135,2093.5,10218,Cash on Delivery,Books,Hyderabad
+2083,2022-07-31,130,2660.35,10062,Credit Card,Electronics,Hyderabad
+2084,2022-06-16,131,1730.59,10157,Cash on Delivery,Grocery,Delhi
+2085,2022-01-25,149,3369.13,10202,Credit Card,Books,Delhi
+2086,2022-07-05,105,7591.84,10017,Debit Card,Books,Mumbai
+2087,2022-05-21,144,5241.92,10322,Cash on Delivery,Grocery,Hyderabad
+2088,2022-07-13,150,2128.32,10006,Cash on Delivery,Electronics,Delhi
+2089,2023-09-14,114,8790.52,10058,Net Banking,Books,Mumbai
+2090,2022-01-02,111,8807.86,10325,UPI,Home & Kitchen,Kolkata
+2091,2022-03-18,109,8718.73,10412,Credit Card,Grocery,Mumbai
+2092,2022-08-20,134,2464.08,10318,Credit Card,Fashion,Hyderabad
+2093,2023-06-23,112,4567.27,10169,Net Banking,Fashion,Bangalore
+2094,2023-03-05,135,9851.4,10453,Net Banking,Electronics,Hyderabad
+2095,2023-07-21,135,7742.92,10082,UPI,Home & Kitchen,Bangalore
+2096,2023-05-03,101,368.96,10474,UPI,Books,Mumbai
+2097,2023-03-07,140,745.53,10468,Cash on Delivery,Fashion,Kolkata
+2098,2023-09-18,122,4692.92,10425,Debit Card,Electronics,Kolkata
+2099,2022-01-10,129,9101.28,10433,UPI,Home & Kitchen,Delhi
+2100,2022-06-29,108,5433.15,10219,Net Banking,Home & Kitchen,Kolkata
+2101,2022-12-30,111,5028.34,10177,UPI,Electronics,Chennai
+2102,2022-02-20,141,1144.19,10204,Credit Card,Electronics,Mumbai
+2103,2022-01-31,137,6602.12,10071,Debit Card,Books,Delhi
+2104,2023-10-05,114,8238.82,10387,Cash on Delivery,Electronics,Kolkata
+2105,2022-05-22,130,3866.16,10266,Credit Card,Books,Mumbai
+2106,2022-02-06,135,7778.56,10098,Credit Card,Books,Hyderabad
+2107,2022-12-15,121,9648.32,10345,Debit Card,Grocery,Kolkata
+2108,2023-07-30,137,2117.29,10291,Cash on Delivery,Home & Kitchen,Bangalore
+2109,2023-09-21,105,5280.96,10208,Net Banking,Home & Kitchen,Mumbai
+2110,2022-12-15,119,2942.67,10002,Cash on Delivery,Home & Kitchen,Delhi
+2111,2023-09-20,114,7949.26,10124,UPI,Grocery,Hyderabad
+2112,2022-10-15,126,5818.17,10280,Credit Card,Books,Chennai
+2113,2023-05-20,104,6382.37,10074,UPI,Books,Hyderabad
+2114,2022-11-09,125,7999.35,10166,Net Banking,Electronics,Kolkata
+2115,2023-04-25,145,4020.11,10022,UPI,Grocery,Bangalore
+2116,2023-11-08,142,9159.39,10154,Cash on Delivery,Electronics,Hyderabad
+2117,2023-07-11,125,5376.99,10427,UPI,Grocery,Chennai
+2118,2022-03-05,118,1663.75,10439,Net Banking,Electronics,Delhi
+2119,2023-01-25,140,6989.4,10295,Net Banking,Fashion,Mumbai
+2120,2022-07-23,108,7953.29,10219,Net Banking,Home & Kitchen,Bangalore
+2121,2022-02-15,139,3235.94,10157,Cash on Delivery,Home & Kitchen,Chennai
+2122,2022-10-25,140,8586.07,10495,Net Banking,Books,Kolkata
+2123,2022-10-06,114,9070.82,10230,Credit Card,Fashion,Kolkata
+2124,2022-04-22,132,2841.35,10020,Net Banking,Home & Kitchen,Kolkata
+2125,2022-09-27,138,9836.86,10475,UPI,Books,Bangalore
+2126,2023-03-07,133,1493.04,10041,UPI,Fashion,Hyderabad
+2127,2022-01-18,123,2099.96,10438,UPI,Home & Kitchen,Bangalore
+2128,2023-02-07,115,1923.83,10148,Cash on Delivery,Electronics,Kolkata
+2129,2023-03-24,133,8950.5,10108,UPI,Grocery,Chennai
+2130,2023-03-21,125,6577.5,10403,Cash on Delivery,Fashion,Mumbai
+2131,2022-02-03,117,1605.83,10084,Cash on Delivery,Books,Mumbai
+2132,2023-05-31,133,4459.2,10483,Net Banking,Fashion,Bangalore
+2133,2022-08-24,147,6191.45,10367,Credit Card,Books,Kolkata
+2134,2022-10-08,102,926.29,10322,Net Banking,Fashion,Delhi
+2135,2022-04-24,114,8835.92,10414,Net Banking,Books,Bangalore
+2136,2022-10-08,140,8055.68,10309,Cash on Delivery,Home & Kitchen,Kolkata
+2137,2023-08-23,140,5101.55,10290,Cash on Delivery,Electronics,Hyderabad
+2138,2023-03-12,139,9674.55,10406,UPI,Home & Kitchen,Mumbai
+2139,2022-01-31,106,4235.83,10323,UPI,Electronics,Mumbai
+2140,2023-03-07,106,9842.69,10134,Net Banking,Home & Kitchen,Mumbai
+2141,2022-12-21,103,6712.41,10207,Debit Card,Home & Kitchen,Delhi
+2142,2023-11-03,107,6383.25,10283,Debit Card,Fashion,Kolkata
+2143,2023-09-22,108,1742.95,10266,UPI,Grocery,Kolkata
+2144,2023-08-05,142,8831.08,10073,Debit Card,Books,Kolkata
+2145,2022-01-04,115,4332.15,10481,UPI,Books,Kolkata
+2146,2022-11-22,147,1706.11,10352,Cash on Delivery,Books,Delhi
+2147,2022-10-02,129,224.81,10048,Net Banking,Electronics,Chennai
+2148,2022-08-31,133,5641.58,10326,Credit Card,Books,Bangalore
+2149,2022-11-18,130,5321.26,10233,Net Banking,Books,Bangalore
+2150,2022-10-05,139,7221.6,10443,UPI,Fashion,Kolkata
+2151,2023-09-02,127,8913.55,10100,UPI,Home & Kitchen,Hyderabad
+2152,2023-03-13,136,886.13,10059,Net Banking,Books,Mumbai
+2153,2023-02-18,129,7341.82,10258,UPI,Grocery,Delhi
+2154,2022-11-23,138,1955.38,10413,Debit Card,Books,Hyderabad
+2155,2022-02-22,133,8595.95,10452,Debit Card,Electronics,Hyderabad
+2156,2023-08-30,137,8208.73,10065,UPI,Electronics,Kolkata
+2157,2023-09-13,127,5453.86,10083,UPI,Electronics,Delhi
+2158,2023-02-05,133,7131.4,10154,Debit Card,Books,Bangalore
+2159,2022-10-12,104,3212.07,10473,UPI,Fashion,Mumbai
+2160,2023-07-08,122,4764.56,10266,UPI,Grocery,Bangalore
+2161,2022-05-10,102,8234.21,10309,Net Banking,Books,Hyderabad
+2162,2023-07-12,110,4646.73,10079,Credit Card,Fashion,Mumbai
+2163,2023-12-29,105,3642.2,10315,Debit Card,Fashion,Chennai
+2164,2022-06-22,110,4992.7,10150,Net Banking,Books,Hyderabad
+2165,2023-08-07,133,8299.67,10435,Credit Card,Books,Bangalore
+2166,2022-04-20,138,3418.56,10048,UPI,Fashion,Bangalore
+2167,2023-03-25,113,1820.24,10405,UPI,Fashion,Kolkata
+2168,2023-06-20,131,7148.94,10379,Net Banking,Fashion,Bangalore
+2169,2023-07-13,147,8277.18,10248,UPI,Books,Delhi
+2170,2022-10-25,136,1096.31,10278,Cash on Delivery,Fashion,Hyderabad
+2171,2023-10-01,145,2474.75,10356,Net Banking,Electronics,Mumbai
+2172,2023-06-29,124,1505.52,10098,Credit Card,Books,Bangalore
+2173,2023-10-06,115,3544.62,10414,Net Banking,Electronics,Kolkata
+2174,2022-02-12,129,4558.47,10025,Debit Card,Home & Kitchen,Kolkata
+2175,2023-03-29,108,7513.38,10493,Net Banking,Books,Bangalore
+2176,2022-01-24,105,6546.36,10284,UPI,Home & Kitchen,Delhi
+2177,2023-08-18,129,6247.19,10449,UPI,Fashion,Kolkata
+2178,2023-05-10,147,3588.51,10369,Cash on Delivery,Fashion,Mumbai
+2179,2023-07-30,104,8430.33,10301,Cash on Delivery,Grocery,Hyderabad
+2180,2022-02-02,112,4765.74,10068,Cash on Delivery,Fashion,Chennai
+2181,2023-10-30,145,9793.14,10007,Credit Card,Home & Kitchen,Delhi
+2182,2022-08-11,102,6378.01,10305,Cash on Delivery,Fashion,Kolkata
+2183,2023-12-12,127,1350.02,10137,Credit Card,Books,Hyderabad
+2184,2022-11-12,131,6794.16,10164,Cash on Delivery,Fashion,Chennai
+2185,2022-12-03,136,3318.53,10083,Credit Card,Grocery,Bangalore
+2186,2023-08-23,136,6894.64,10385,Net Banking,Fashion,Bangalore
+2187,2023-07-14,126,789.45,10138,Net Banking,Home & Kitchen,Mumbai
+2188,2023-02-09,143,1831.33,10420,UPI,Home & Kitchen,Chennai
+2189,2023-10-31,127,8571.8,10073,Credit Card,Fashion,Bangalore
+2190,2023-06-15,105,2349.08,10237,Debit Card,Home & Kitchen,Bangalore
+2191,2022-08-18,120,8386.71,10046,UPI,Home & Kitchen,Kolkata
+2192,2023-05-02,111,2864.83,10106,Net Banking,Grocery,Mumbai
+2193,2022-07-19,110,6464.53,10416,Credit Card,Books,Hyderabad
+2194,2022-12-24,140,6972.09,10288,Cash on Delivery,Grocery,Bangalore
+2195,2022-04-07,138,5175.28,10262,Debit Card,Electronics,Delhi
+2196,2022-11-04,106,3122.58,10176,Net Banking,Grocery,Delhi
+2197,2023-05-24,108,2205.18,10166,UPI,Fashion,Hyderabad
+2198,2023-02-24,123,428.57,10145,Credit Card,Books,Chennai
+2199,2022-02-02,147,3109.07,10330,Debit Card,Fashion,Mumbai
+2200,2023-01-10,126,6566.31,10370,Credit Card,Electronics,Kolkata
+2201,2023-07-21,146,9389.22,10283,Cash on Delivery,Books,Delhi
+2202,2022-12-11,143,8724.92,10054,UPI,Home & Kitchen,Delhi
+2203,2022-04-22,112,7684.04,10178,Credit Card,Grocery,Hyderabad
+2204,2022-12-30,126,7905.63,10419,Net Banking,Fashion,Chennai
+2205,2022-12-09,113,6683.35,10244,UPI,Electronics,Chennai
+2206,2022-07-10,140,2676.84,10341,Net Banking,Home & Kitchen,Hyderabad
+2207,2022-08-10,118,9081.23,10127,Credit Card,Grocery,Delhi
+2208,2022-05-18,125,6740.25,10409,UPI,Home & Kitchen,Mumbai
+2209,2023-02-19,133,5648.36,10412,Net Banking,Grocery,Delhi
+2210,2022-04-01,147,1198.8,10367,Cash on Delivery,Books,Chennai
+2211,2023-07-08,140,4525.85,10271,Cash on Delivery,Home & Kitchen,Kolkata
+2212,2023-08-04,143,4657.55,10132,Credit Card,Home & Kitchen,Delhi
+2213,2022-07-04,112,8659.18,10093,UPI,Home & Kitchen,Mumbai
+2214,2023-10-17,144,5511.82,10379,Debit Card,Books,Bangalore
+2215,2022-01-09,136,3865.97,10073,UPI,Electronics,Delhi
+2216,2022-03-04,148,9770.32,10411,Cash on Delivery,Grocery,Hyderabad
+2217,2023-08-15,104,1196.13,10410,Net Banking,Home & Kitchen,Bangalore
+2218,2023-12-06,105,4283.23,10403,Debit Card,Books,Hyderabad
+2219,2023-02-28,137,516.04,10248,Credit Card,Electronics,Hyderabad
+2220,2022-01-30,108,7425.05,10348,Debit Card,Grocery,Hyderabad
+2221,2023-12-06,142,9188.96,10273,Credit Card,Books,Delhi
+2222,2023-01-19,149,2872.37,10043,Debit Card,Grocery,Chennai
+2223,2023-02-19,128,8597.58,10377,Credit Card,Home & Kitchen,Bangalore
+2224,2022-03-20,131,2992.96,10041,Credit Card,Electronics,Mumbai
+2225,2022-03-02,109,9116.62,10170,Debit Card,Books,Chennai
+2226,2022-11-17,129,7564.22,10434,Debit Card,Electronics,Delhi
+2227,2022-09-30,114,8068.58,10212,Credit Card,Home & Kitchen,Hyderabad
+2228,2023-02-02,140,278.26,10493,Cash on Delivery,Electronics,Mumbai
+2229,2023-12-20,141,9631.82,10168,Debit Card,Electronics,Bangalore
+2230,2023-03-13,122,7294.04,10039,UPI,Fashion,Chennai
+2231,2023-10-26,111,3117.04,10369,Net Banking,Electronics,Kolkata
+2232,2022-03-24,123,8311.01,10245,Credit Card,Grocery,Chennai
+2233,2023-04-10,101,2887.06,10151,Credit Card,Books,Mumbai
+2234,2022-03-26,146,8740.26,10111,Net Banking,Fashion,Delhi
+2235,2022-03-13,137,1214.55,10480,Cash on Delivery,Books,Bangalore
+2236,2022-09-28,121,7066.49,10436,Net Banking,Books,Mumbai
+2237,2023-05-25,126,5452.91,10047,Debit Card,Home & Kitchen,Hyderabad
+2238,2023-08-08,146,1055.69,10063,Net Banking,Home & Kitchen,Bangalore
+2239,2022-08-22,136,2494.75,10225,Credit Card,Fashion,Chennai
+2240,2022-07-30,123,222.8,10366,Net Banking,Home & Kitchen,Mumbai
+2241,2023-08-02,101,4740.8,10069,UPI,Home & Kitchen,Chennai
+2242,2023-02-19,140,3082.53,10299,Debit Card,Home & Kitchen,Chennai
+2243,2022-01-31,115,6023.74,10432,Net Banking,Books,Chennai
+2244,2023-10-06,121,3042.65,10290,Credit Card,Fashion,Delhi
+2245,2023-03-12,147,3069.2,10296,Debit Card,Books,Chennai
+2246,2022-10-27,109,7457.61,10203,Credit Card,Grocery,Hyderabad
+2247,2023-11-24,109,576.61,10061,Cash on Delivery,Books,Hyderabad
+2248,2023-10-31,110,9038.66,10434,UPI,Grocery,Bangalore
+2249,2023-02-07,126,8537.41,10451,Cash on Delivery,Electronics,Kolkata
+2250,2022-10-15,141,6711.27,10318,UPI,Electronics,Chennai
+2251,2022-12-31,135,5972.89,10314,Net Banking,Grocery,Chennai
+2252,2023-07-01,125,8933.79,10161,Debit Card,Grocery,Mumbai
+2253,2022-01-24,126,1934.77,10331,Net Banking,Books,Delhi
+2254,2022-09-30,111,881.79,10016,UPI,Grocery,Kolkata
+2255,2022-07-19,138,2471.15,10338,UPI,Fashion,Bangalore
+2256,2023-07-09,102,7966.32,10094,UPI,Electronics,Kolkata
+2257,2022-02-25,107,443.24,10304,Credit Card,Electronics,Chennai
+2258,2023-05-25,118,5869.79,10138,Debit Card,Grocery,Mumbai
+2259,2022-12-10,127,9954.83,10338,Net Banking,Home & Kitchen,Delhi
+2260,2022-02-06,134,8571.39,10038,Net Banking,Home & Kitchen,Bangalore
+2261,2022-12-21,127,5262.31,10127,Cash on Delivery,Grocery,Kolkata
+2262,2022-03-22,117,730.05,10275,UPI,Fashion,Bangalore
+2263,2022-12-08,143,8330.6,10164,UPI,Home & Kitchen,Chennai
+2264,2023-08-24,144,6029.89,10443,UPI,Grocery,Bangalore
+2265,2023-12-31,124,1237.84,10319,Net Banking,Fashion,Mumbai
+2266,2022-06-13,125,1029.19,10077,Cash on Delivery,Fashion,Bangalore
+2267,2022-11-20,107,9105.31,10174,Credit Card,Books,Hyderabad
+2268,2022-11-14,106,6725.08,10387,Debit Card,Fashion,Mumbai
+2269,2023-02-21,124,8309.94,10458,Credit Card,Home & Kitchen,Kolkata
+2270,2022-11-16,133,8801.89,10358,Net Banking,Home & Kitchen,Delhi
+2271,2022-12-01,149,5760.55,10321,UPI,Grocery,Delhi
+2272,2023-09-16,129,5222.72,10376,Debit Card,Grocery,Chennai
+2273,2023-01-25,143,4361.23,10091,Net Banking,Fashion,Chennai
+2274,2022-06-09,122,3237.77,10238,Net Banking,Electronics,Hyderabad
+2275,2022-02-13,126,4402.5,10264,Net Banking,Books,Kolkata
+2276,2023-03-28,128,7761.41,10179,Debit Card,Electronics,Delhi
+2277,2022-09-11,150,6059.04,10494,Debit Card,Fashion,Delhi
+2278,2023-01-26,121,8935.98,10490,Cash on Delivery,Fashion,Delhi
+2279,2023-05-28,149,4489.46,10209,Cash on Delivery,Electronics,Delhi
+2280,2023-11-02,107,6110.19,10073,Credit Card,Books,Bangalore
+2281,2022-06-07,117,6349.94,10390,Debit Card,Electronics,Kolkata
+2282,2023-09-16,120,5957.8,10107,Debit Card,Grocery,Mumbai
+2283,2023-01-29,141,7056.07,10345,Debit Card,Home & Kitchen,Mumbai
+2284,2023-09-12,149,2450.59,10295,Cash on Delivery,Grocery,Hyderabad
+2285,2022-09-26,120,5172.4,10369,Net Banking,Home & Kitchen,Bangalore
+2286,2022-11-14,122,1131.83,10444,UPI,Fashion,Delhi
+2287,2023-10-18,128,3906.66,10284,Cash on Delivery,Books,Delhi
+2288,2023-10-19,140,4927.9,10353,Debit Card,Electronics,Chennai
+2289,2023-04-17,149,6557.02,10182,Cash on Delivery,Books,Chennai
+2290,2023-12-21,107,9510.26,10037,Credit Card,Electronics,Hyderabad
+2291,2022-06-01,101,6046.45,10137,Debit Card,Grocery,Delhi
+2292,2023-10-30,132,7461.58,10338,Credit Card,Grocery,Hyderabad
+2293,2023-04-20,113,5112.03,10056,Debit Card,Electronics,Bangalore
+2294,2022-01-09,130,6377.63,10187,Cash on Delivery,Books,Mumbai
+2295,2023-03-28,123,802.23,10341,Net Banking,Electronics,Delhi
+2296,2022-01-05,119,2618.48,10258,UPI,Fashion,Kolkata
+2297,2022-07-04,132,3682.35,10445,Credit Card,Grocery,Bangalore
+2298,2023-01-10,130,4777.68,10058,Cash on Delivery,Fashion,Delhi
+2299,2023-01-13,129,551.92,10363,Net Banking,Grocery,Kolkata
+2300,2023-04-17,149,1486.24,10123,Cash on Delivery,Grocery,Chennai
+2301,2023-05-21,145,2840.46,10188,Credit Card,Home & Kitchen,Hyderabad
+2302,2022-05-31,129,9718.17,10230,UPI,Fashion,Chennai
+2303,2022-11-12,130,3380.34,10168,Cash on Delivery,Fashion,Mumbai
+2304,2022-04-03,116,4872.21,10420,Debit Card,Home & Kitchen,Chennai
+2305,2022-10-10,140,2041.37,10114,Net Banking,Books,Delhi
+2306,2022-05-11,119,6146.72,10252,Cash on Delivery,Fashion,Kolkata
+2307,2023-03-31,118,2878.76,10107,Net Banking,Electronics,Chennai
+2308,2023-02-16,101,2149.23,10037,Debit Card,Home & Kitchen,Delhi
+2309,2023-05-29,114,5214.07,10335,UPI,Fashion,Mumbai
+2310,2022-06-03,147,154.51,10092,UPI,Books,Kolkata
+2311,2023-04-28,150,175.87,10018,Debit Card,Fashion,Chennai
+2312,2023-03-14,102,2268.78,10354,Net Banking,Grocery,Hyderabad
+2313,2023-03-05,128,463.54,10063,Cash on Delivery,Electronics,Hyderabad
+2314,2023-09-28,149,1169.45,10150,Debit Card,Home & Kitchen,Kolkata
+2315,2023-11-07,150,3454.72,10139,Credit Card,Grocery,Hyderabad
+2316,2023-02-28,130,8045.6,10186,Net Banking,Books,Chennai
+2317,2023-11-21,138,5763.28,10185,UPI,Grocery,Chennai
+2318,2023-05-27,104,5175.41,10205,Debit Card,Grocery,Kolkata
+2319,2023-04-20,101,3005.54,10260,UPI,Books,Chennai
+2320,2023-01-19,108,9324.36,10214,Net Banking,Grocery,Delhi
+2321,2022-05-23,129,4030.45,10256,UPI,Home & Kitchen,Mumbai
+2322,2022-07-23,139,962.22,10135,Debit Card,Fashion,Hyderabad
+2323,2023-03-13,103,6208.96,10061,Net Banking,Grocery,Delhi
+2324,2023-05-19,132,1227.0,10363,Credit Card,Home & Kitchen,Kolkata
+2325,2023-02-23,110,3517.71,10310,Debit Card,Fashion,Hyderabad
+2326,2023-06-05,110,5123.38,10088,Cash on Delivery,Fashion,Delhi
+2327,2022-12-18,119,8754.8,10324,Debit Card,Grocery,Chennai
+2328,2023-09-05,146,4986.11,10476,Net Banking,Home & Kitchen,Kolkata
+2329,2022-10-05,134,7052.36,10207,Debit Card,Grocery,Kolkata
+2330,2023-04-02,133,9928.89,10129,Credit Card,Books,Hyderabad
+2331,2023-07-16,123,1401.74,10311,Credit Card,Fashion,Chennai
+2332,2022-04-15,128,2819.84,10003,Cash on Delivery,Grocery,Hyderabad
+2333,2022-03-31,132,4006.3,10462,UPI,Fashion,Bangalore
+2334,2023-05-09,150,4276.1,10422,Net Banking,Home & Kitchen,Delhi
+2335,2023-08-20,107,4169.11,10242,Net Banking,Electronics,Bangalore
+2336,2023-11-21,129,9085.35,10121,UPI,Grocery,Delhi
+2337,2022-01-10,108,7168.92,10385,Credit Card,Grocery,Mumbai
+2338,2022-02-28,101,6118.26,10102,Credit Card,Fashion,Kolkata
+2339,2022-03-28,103,3162.79,10038,Debit Card,Home & Kitchen,Hyderabad
+2340,2022-08-01,124,8255.52,10341,Cash on Delivery,Books,Mumbai
+2341,2022-02-17,123,9555.1,10496,Cash on Delivery,Home & Kitchen,Mumbai
+2342,2022-10-23,108,8229.86,10413,Cash on Delivery,Grocery,Kolkata
+2343,2022-09-27,147,115.49,10133,Debit Card,Books,Kolkata
+2344,2022-02-03,137,6400.37,10497,Cash on Delivery,Home & Kitchen,Delhi
+2345,2022-01-18,103,606.24,10202,UPI,Electronics,Bangalore
+2346,2023-09-18,133,2650.31,10348,Debit Card,Fashion,Chennai
+2347,2023-06-27,128,689.29,10021,UPI,Home & Kitchen,Delhi
+2348,2023-04-02,147,6077.57,10242,Debit Card,Home & Kitchen,Chennai
+2349,2023-08-11,108,6897.24,10455,Cash on Delivery,Electronics,Mumbai
+2350,2023-12-02,134,1233.43,10451,UPI,Grocery,Chennai
+2351,2022-01-11,135,3900.0,10109,UPI,Fashion,Bangalore
+2352,2023-11-15,132,4616.74,10303,UPI,Home & Kitchen,Delhi
+2353,2023-03-14,124,3753.62,10084,Debit Card,Books,Kolkata
+2354,2022-02-15,114,1298.15,10083,Net Banking,Home & Kitchen,Bangalore
+2355,2022-02-21,132,4247.58,10291,Cash on Delivery,Fashion,Bangalore
+2356,2023-07-30,146,7536.66,10452,UPI,Home & Kitchen,Delhi
+2357,2022-07-19,143,802.98,10069,Net Banking,Electronics,Kolkata
+2358,2022-01-05,116,893.78,10129,Cash on Delivery,Home & Kitchen,Bangalore
+2359,2023-11-03,104,3612.24,10196,Cash on Delivery,Home & Kitchen,Kolkata
+2360,2022-10-30,137,9423.08,10140,UPI,Books,Hyderabad
+2361,2023-03-12,121,6718.87,10444,UPI,Electronics,Hyderabad
+2362,2022-06-07,114,6818.83,10283,Debit Card,Electronics,Hyderabad
+2363,2022-05-17,131,3683.01,10312,Net Banking,Home & Kitchen,Chennai
+2364,2023-04-10,148,5977.24,10234,Net Banking,Books,Bangalore
+2365,2022-12-24,118,200.3,10023,UPI,Home & Kitchen,Delhi
+2366,2022-09-08,107,6397.35,10153,Cash on Delivery,Home & Kitchen,Delhi
+2367,2022-08-19,110,9141.54,10277,UPI,Fashion,Chennai
+2368,2022-10-21,107,6164.48,10061,Cash on Delivery,Fashion,Delhi
+2369,2023-04-12,133,8749.62,10319,Cash on Delivery,Books,Hyderabad
+2370,2022-08-28,123,7267.33,10378,UPI,Grocery,Bangalore
+2371,2023-08-25,121,1293.53,10052,Credit Card,Fashion,Delhi
+2372,2022-04-26,119,9034.29,10344,Net Banking,Grocery,Delhi
+2373,2023-05-03,148,757.79,10153,Cash on Delivery,Electronics,Mumbai
+2374,2023-09-25,119,5386.28,10237,Cash on Delivery,Fashion,Mumbai
+2375,2023-03-06,136,1507.16,10311,Credit Card,Fashion,Mumbai
+2376,2022-06-07,129,215.9,10302,Debit Card,Books,Bangalore
+2377,2022-02-06,118,4278.14,10032,Credit Card,Grocery,Hyderabad
+2378,2022-05-25,102,3020.9,10055,Credit Card,Fashion,Kolkata
+2379,2022-10-16,101,4911.4,10352,Cash on Delivery,Fashion,Hyderabad
+2380,2023-01-18,147,5814.28,10389,Net Banking,Books,Hyderabad
+2381,2023-01-31,105,533.02,10036,Credit Card,Books,Bangalore
+2382,2023-07-07,120,1317.73,10110,Debit Card,Grocery,Bangalore
+2383,2023-12-22,111,5630.56,10490,UPI,Electronics,Mumbai
+2384,2023-06-03,142,3497.36,10177,Credit Card,Electronics,Delhi
+2385,2022-12-17,102,7318.82,10362,Credit Card,Home & Kitchen,Chennai
+2386,2023-03-11,103,6557.69,10314,Debit Card,Fashion,Chennai
+2387,2022-01-29,123,8471.48,10295,Net Banking,Grocery,Kolkata
+2388,2023-09-03,112,6955.68,10336,Credit Card,Fashion,Delhi
+2389,2023-10-24,120,4356.32,10097,Credit Card,Grocery,Kolkata
+2390,2023-03-27,105,6762.37,10369,Net Banking,Grocery,Mumbai
+2391,2023-05-28,137,2826.27,10213,Debit Card,Grocery,Kolkata
+2392,2022-07-28,138,3132.5,10317,Credit Card,Fashion,Delhi
+2393,2023-07-02,130,7910.95,10137,Net Banking,Books,Delhi
+2394,2022-05-06,109,4519.55,10006,Credit Card,Fashion,Chennai
+2395,2022-12-02,134,8003.97,10499,UPI,Grocery,Mumbai
+2396,2022-03-26,144,8241.98,10109,Cash on Delivery,Home & Kitchen,Bangalore
+2397,2022-11-12,135,8589.87,10035,UPI,Electronics,Kolkata
+2398,2022-10-10,122,9174.69,10039,Credit Card,Grocery,Chennai
+2399,2023-07-14,144,4366.75,10150,Debit Card,Home & Kitchen,Kolkata
+2400,2023-08-16,124,3256.78,10425,Cash on Delivery,Books,Kolkata
+2401,2023-09-04,117,5863.77,10118,UPI,Grocery,Bangalore
+2402,2023-09-13,110,3774.61,10261,Net Banking,Home & Kitchen,Mumbai
+2403,2023-01-27,130,6050.63,10426,Debit Card,Grocery,Delhi
+2404,2022-03-28,146,7085.3,10087,UPI,Fashion,Hyderabad
+2405,2022-04-20,123,6915.21,10465,Net Banking,Home & Kitchen,Kolkata
+2406,2022-07-13,132,3808.07,10076,Credit Card,Fashion,Hyderabad
+2407,2022-01-13,117,1751.92,10471,Net Banking,Fashion,Mumbai
+2408,2023-04-27,150,4362.24,10464,UPI,Home & Kitchen,Hyderabad
+2409,2022-07-22,117,1511.68,10451,UPI,Electronics,Kolkata
+2410,2023-10-26,114,8911.96,10414,Credit Card,Home & Kitchen,Bangalore
+2411,2022-07-16,109,3524.19,10313,Net Banking,Electronics,Hyderabad
+2412,2023-01-24,140,1629.15,10383,Net Banking,Grocery,Mumbai
+2413,2022-12-24,102,351.93,10214,Credit Card,Grocery,Mumbai
+2414,2023-10-23,145,6493.64,10457,Net Banking,Home & Kitchen,Bangalore
+2415,2023-09-27,125,6405.33,10285,Credit Card,Grocery,Hyderabad
+2416,2023-04-11,139,3471.98,10239,Debit Card,Books,Hyderabad
+2417,2022-03-06,109,809.95,10165,UPI,Fashion,Delhi
+2418,2023-06-20,122,4155.33,10087,Debit Card,Fashion,Chennai
+2419,2023-07-30,143,3181.05,10141,Cash on Delivery,Electronics,Mumbai
+2420,2022-10-31,146,6803.49,10160,Cash on Delivery,Grocery,Delhi
+2421,2023-04-12,104,6097.21,10046,Cash on Delivery,Electronics,Mumbai
+2422,2023-10-16,126,3709.48,10372,Credit Card,Fashion,Delhi
+2423,2022-10-29,129,2257.14,10495,Net Banking,Fashion,Chennai
+2424,2022-08-04,145,9881.56,10112,Debit Card,Grocery,Delhi
+2425,2023-08-22,134,4594.62,10407,Debit Card,Books,Mumbai
+2426,2022-01-10,123,6913.91,10045,Debit Card,Books,Hyderabad
+2427,2022-08-31,137,1491.47,10401,Debit Card,Grocery,Mumbai
+2428,2023-02-26,111,4907.34,10247,Cash on Delivery,Grocery,Kolkata
+2429,2023-03-01,106,372.61,10104,Debit Card,Electronics,Bangalore
+2430,2023-06-11,118,5104.01,10085,Net Banking,Grocery,Bangalore
+2431,2023-09-19,121,9643.77,10450,Cash on Delivery,Books,Kolkata
+2432,2022-05-23,142,3903.65,10485,Debit Card,Grocery,Bangalore
+2433,2022-09-27,136,486.06,10134,Credit Card,Electronics,Bangalore
+2434,2022-02-07,141,406.46,10108,UPI,Electronics,Chennai
+2435,2023-12-02,138,3941.07,10018,UPI,Electronics,Hyderabad
+2436,2022-08-14,134,1684.25,10094,UPI,Electronics,Hyderabad
+2437,2022-08-09,117,331.19,10150,Cash on Delivery,Home & Kitchen,Mumbai
+2438,2023-12-18,137,7586.51,10246,Debit Card,Grocery,Kolkata
+2439,2023-05-03,125,4639.38,10289,Cash on Delivery,Fashion,Delhi
+2440,2023-09-23,138,2963.52,10414,Net Banking,Grocery,Mumbai
+2441,2023-04-28,112,9010.82,10209,Credit Card,Home & Kitchen,Mumbai
+2442,2023-07-17,123,1249.78,10126,Credit Card,Electronics,Mumbai
+2443,2023-05-11,142,9563.6,10235,UPI,Home & Kitchen,Mumbai
+2444,2023-12-01,122,3208.27,10416,UPI,Books,Hyderabad
+2445,2022-08-23,121,8895.2,10426,UPI,Books,Delhi
+2446,2022-01-28,127,6069.13,10499,Debit Card,Grocery,Mumbai
+2447,2023-03-19,131,8284.4,10462,Net Banking,Grocery,Hyderabad
+2448,2022-06-17,106,9841.73,10122,Net Banking,Fashion,Mumbai
+2449,2022-02-16,127,2955.21,10138,Net Banking,Fashion,Bangalore
+2450,2023-10-17,140,9615.24,10495,Net Banking,Books,Mumbai
+2451,2023-04-30,134,3955.87,10115,UPI,Electronics,Kolkata
+2452,2023-06-03,112,3916.57,10420,Credit Card,Home & Kitchen,Kolkata
+2453,2023-03-16,145,3469.83,10162,UPI,Fashion,Mumbai
+2454,2022-07-04,107,5459.94,10201,Net Banking,Fashion,Chennai
+2455,2023-07-24,110,1626.04,10234,UPI,Electronics,Bangalore
+2456,2023-08-23,145,5581.74,10028,Net Banking,Electronics,Delhi
+2457,2022-02-20,117,5462.88,10011,Cash on Delivery,Grocery,Mumbai
+2458,2022-06-13,126,7642.83,10206,Credit Card,Home & Kitchen,Delhi
+2459,2023-08-10,121,8353.13,10167,Cash on Delivery,Electronics,Bangalore
+2460,2023-12-13,128,4460.37,10247,Debit Card,Fashion,Mumbai
+2461,2022-01-11,146,3093.1,10047,UPI,Fashion,Chennai
+2462,2022-01-05,102,2667.42,10246,Debit Card,Books,Hyderabad
+2463,2022-04-04,143,2026.78,10127,UPI,Electronics,Chennai
+2464,2022-09-12,101,670.71,10147,Cash on Delivery,Grocery,Chennai
+2465,2023-07-18,136,3490.23,10118,Net Banking,Home & Kitchen,Hyderabad
+2466,2023-06-06,126,2775.45,10399,Net Banking,Grocery,Hyderabad
+2467,2022-10-30,129,9667.53,10382,UPI,Fashion,Kolkata
+2468,2023-07-15,121,5621.32,10412,Net Banking,Grocery,Hyderabad
+2469,2023-03-20,111,3538.04,10152,Cash on Delivery,Fashion,Mumbai
+2470,2022-06-30,140,5846.63,10072,Net Banking,Fashion,Delhi
+2471,2022-07-09,111,1478.05,10363,Cash on Delivery,Fashion,Kolkata
+2472,2023-08-20,136,4496.03,10137,Debit Card,Fashion,Kolkata
+2473,2023-07-23,149,6299.72,10175,Cash on Delivery,Fashion,Delhi
+2474,2022-11-08,139,4940.09,10289,Credit Card,Books,Kolkata
+2475,2023-04-13,140,4077.61,10446,Credit Card,Grocery,Hyderabad
+2476,2023-11-14,135,9939.1,10481,Credit Card,Books,Chennai
+2477,2023-08-04,134,8815.12,10019,UPI,Books,Bangalore
+2478,2022-12-05,147,6271.72,10195,UPI,Electronics,Hyderabad
+2479,2022-02-26,124,5736.84,10330,UPI,Electronics,Chennai
+2480,2023-12-25,122,6244.54,10424,Cash on Delivery,Electronics,Chennai
+2481,2022-11-03,105,2092.99,10175,UPI,Home & Kitchen,Kolkata
+2482,2023-09-28,133,4011.86,10490,Debit Card,Electronics,Mumbai
+2483,2022-07-21,136,490.65,10449,Credit Card,Grocery,Mumbai
+2484,2023-06-06,147,4807.91,10413,Cash on Delivery,Books,Kolkata
+2485,2023-05-29,120,5475.94,10434,Credit Card,Grocery,Kolkata
+2486,2022-01-01,119,2354.72,10354,UPI,Electronics,Delhi
+2487,2023-12-10,135,9643.89,10499,Cash on Delivery,Home & Kitchen,Delhi
+2488,2023-04-01,143,9103.6,10141,Net Banking,Home & Kitchen,Bangalore
+2489,2023-07-29,117,7249.22,10246,Debit Card,Books,Bangalore
+2490,2022-12-13,145,5380.53,10385,UPI,Grocery,Bangalore
+2491,2023-02-04,143,8712.69,10418,UPI,Fashion,Bangalore
+2492,2022-01-10,134,1393.46,10093,Debit Card,Grocery,Chennai
+2493,2023-06-27,109,7926.05,10432,Debit Card,Electronics,Chennai
+2494,2023-09-02,126,1335.73,10239,Net Banking,Fashion,Delhi
+2495,2022-02-10,102,7962.69,10205,UPI,Home & Kitchen,Mumbai
+2496,2022-08-21,109,2830.1,10048,UPI,Books,Kolkata
+2497,2023-04-18,109,8783.2,10433,Credit Card,Books,Mumbai
+2498,2022-03-19,140,9446.02,10245,Cash on Delivery,Home & Kitchen,Hyderabad
+2499,2023-06-17,117,1573.08,10320,Cash on Delivery,Electronics,Chennai
+2500,2023-12-03,101,4680.49,10317,Credit Card,Home & Kitchen,Bangalore
